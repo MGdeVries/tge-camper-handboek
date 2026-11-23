@@ -20,6 +20,7 @@ Eén serielus: per apparaat een 24V-3-wegklep (apparaat óf bypass), retour dire
 | V4 grijswater | T4 < 3°C | T4 > 8°C | bypass |
 
 ## Open punten
+- [ ] Vloerverwarming (buis in de Bo-dapter-vloer) als extra apparaat in de serielus: eigen klep + mengklep?
 - [ ] 24V-kleppen Autoterm: leverbaar? stand zonder stroom?
 - [ ] 2-wegkranen tanks: in het koelvloeistofcircuit of aftapkranen?
 - [ ] Extra vloeistofpomp nodig naast de pomp van de Flow 5D?

@@ -18,6 +18,7 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | Z09 | Plafond / dak (MaxxFans, zonnepanelen, dakrek) |
 | Z10 | Onder de bus (tanks, leidingen, dieseltank) |
 | Z11 | Motorruimte |
+| Z12 | Vloer – geïsoleerde vloeropbouw met vloerverwarming, kabelgoten en bevestigingspunten (zie [Vloer](../interieur/vloer.md)) |
 
 ## Bekende locaties
 
@@ -30,6 +31,9 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | Bandenspanningssticker | Z01 | deurstijl |
 | Wheeliams-wieldrager + Backrack | Z07 | achterdeuren |
 | VNK-dakrek | Z09 | dak |
+| Voedingskabels Orion XS (2× 25 mm²) + Ablemail | Z12 | in ribbelbuizen tussen wagenbodem en Bo-dapter |
+| Vloerverwarmingsbuis | Z12 | in de Bo-dapter-isolatie |
+| Bevestigingspunten interieur | Z12 | stalen platen met blindklinkmoeren onder de houten toplaag |
 | Klemmenstrook (IS3) + massapunt klem 31 | Z01 | achter de onderste A-stijlbekleding rechtsvoor |
 | KFG + telematicaconnector | Z01 | onder het dashboard achter het dashboardkastje, passagierszijde |
 | 230V-stopcontact (9Z3) | Z01 | stoelframe links |

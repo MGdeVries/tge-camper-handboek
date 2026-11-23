@@ -44,3 +44,14 @@
 
 !!! note "Gewicht achterdeuren"
     Wieldrager (10 kg) + rek (14,5 kg) + wiel (±30 kg) + lading (max. 50 kg) hangen samen aan de achterdeuren en achter de achteras. Neem dit mee in de asbelasting achter (max. 2.100 kg).
+
+## IN-001 Bo-dapter vloerisolatie
+
+| Veld | Waarde |
+|---|---|
+| Merk / type | camper-adapter.de Bo-dapter, Crafter 2 / MAN TGE, L4, 4Motion – **dikkere versie op maat** |
+| Herkomst | aftermarket |
+| Locatie | Z12 – vloer |
+| Materiaal | XPS, CNC-gefreesd op de vloercontour, 300 kPa |
+| Status | gepland |
+| Zie | [Vloer](../interieur/vloer.md) |

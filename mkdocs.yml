@@ -97,6 +97,9 @@ nav:
       - Pekaway-specificaties: elektra/pekaway-specs.md
   - Verwarming:
       - verwarming/index.md
+  - Interieur:
+      - interieur/index.md
+      - Vloer: interieur/vloer.md
   - Onderdelen:
       - onderdelen/index.md
       - Pekaway: onderdelen/pekaway.md
