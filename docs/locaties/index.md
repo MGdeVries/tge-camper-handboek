@@ -23,7 +23,11 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 
 | Onderdeel | Zone | Precieze plek |
 |---|---|---|
-| Startaccu | Z01 | onder bestuurdersstoel |
+| Startaccu AGM 92 Ah (J0B) | Z01 | vloer links, vóór de bestuurdersstoel |
+| 2e accu AGM 92 Ah (8FE) + zekeringdoos | Z01 | *nog bevestigen* (zekeringdoos in de bestuurdersstoelbak) |
+| Klemmenstrook (IS3) + massapunt klem 31 | Z01 | achter de onderste A-stijlbekleding rechtsvoor |
+| KFG + telematicaconnector | Z01 | onder het dashboard achter het dashboardkastje, passagierszijde |
+| 230V-stopcontact (9Z3) | Z01 | stoelframe links |
 | MEGA 100A (12V-voeding Orions) | Z01 | direct achter de startaccu |
 | Blue Sea 6007 selector | Z01 | onderin B-stijl, links achter bestuurdersstoel |
 | Chassispunt min huishoudsysteem | Z10 | tussen linker achterwielkast en achterbumper |

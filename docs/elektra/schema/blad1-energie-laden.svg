@@ -22,9 +22,9 @@
 <!-- ===== VOERTUIG 12V ===== -->
 <text x="40" y="28" class="lb" style="font-size:13px">VOERTUIG 12V</text>
 <rect x="40" y="40" width="150" height="62" class="box"/><rect x="40" y="40" width="150" height="22" class="hd"/>
-<text x="50" y="56" class="ht">Dynamo 250A</text><text x="50" y="82" class="bt">±15,6V bij laden</text>
+<text x="50" y="56" class="ht">Dynamo 230A (9G0)</text><text x="50" y="82" class="bt">±15,6V bij laden</text>
 <rect x="40" y="150" width="150" height="70" class="box"/><rect x="40" y="150" width="150" height="22" class="hd"/>
-<text x="50" y="166" class="ht">Startaccu 12V</text><text x="50" y="192" class="bt">voertuigaccu</text><text x="50" y="208" class="bt">+ onder bestuurdersstoel</text>
+<text x="50" y="166" class="ht">Startaccu 12V</text><text x="50" y="192" class="bt">voertuigaccu</text><text x="50" y="208" class="bt">AGM 92 Ah / 520 A (J0B)</text>
 <rect x="40" y="270" width="150" height="62" class="box"/><rect x="40" y="270" width="150" height="22" class="hd"/>
 <text x="50" y="286" class="ht">Ablemail AMT12-2</text><text x="50" y="312" class="bt">druppellader startaccu</text>
 
@@ -81,7 +81,7 @@
 <path d="M350 385H550V318H560" class="d" marker-end="url(#arb)"/>
 <text x="30" y="378" class="cb" style="fill:#1f6fd1">remote on/off Orions (motor-aan)</text>
 <path d="M150 822V792" class="d" marker-end="url(#arb)"/>
-<text x="158" y="816" class="cb" style="fill:#1f6fd1">CAN-bus / KFG motor-aan</text>
+<text x="158" y="816" class="cb" style="fill:#1f6fd1">KFG (IS3) motor-aan</text>
 <text x="770" y="350" class="cb" style="fill:#1f6fd1">BLE → CORE PRO</text>
 
 <!-- ===== WOONACCU ===== -->

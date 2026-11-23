@@ -1,5 +1,7 @@
 # Bronnen
 
+- VW Aufbaurichtlinie Der neue Crafter (MJ 2025), nov. 2024: <https://umbauportal.volkswagen-nutzfahrzeuge.ch/download/Technische%20Informationen/Aufbaurichtlinien/Crafter/Aufbaurichtlinie-Crafter-DE-48-2024.pdf>
+- VW Aufbaurichtlinie Crafter (MJ 2017), nov. 2023: <https://umbauportal.volkswagen-nutzfahrzeuge.ch/download/Technische%20Informationen/Aufbaurichtlinien/Crafter/Aufbaurichtlinie-Crafter-DE-48-2023_01.pdf>
 - Bouwverslag: camperforum.nl – *Ombouw MAN TGE*
 - Pekaway specsheets: <https://www.canva.com/design/DAGipMbBoJY/jEhIXF38jMmxMzk4PXYAIQ/view>
 - VAN PI-documentatie: <https://pekaway.gitbook.io/van-pi-dokumentation>

@@ -60,6 +60,7 @@ nav:
       - voertuig/index.md
   - Elektra:
       - elektra/index.md
+      - Aansluiten op het voertuig: elektra/voertuigaansluiting.md
       - Componentenlijst: elektra/componentenlijst.md
       - Zekeringen rev A (mapping tool): elektra/zekeringkast-rev-a.md
       - Zekeringen rev B (voorstel): elektra/zekeringen-rev-b.md

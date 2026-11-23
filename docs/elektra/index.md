@@ -21,6 +21,7 @@ Alle groepen per Fusy-blok met zekering, kabeldoorsnede en lengte (rev A).
 Victron-stijl: **rood** plus, **zwart** min, **blauw gestippeld** data/stuursignaal, **paars** 230V AC.
 
 ## Verder lezen
+- [Aansluiten op het voertuig – conform VW-opbouwrichtlijn](voertuigaansluiting.md)
 - [Componentenlijst](componentenlijst.md)
 - [Zekeringen rev A – mapping tool](zekeringkast-rev-a.md)
 - [Zekeringen rev B – voorstel op basis van echte stromen](zekeringen-rev-b.md)

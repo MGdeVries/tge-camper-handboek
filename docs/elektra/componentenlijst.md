@@ -5,8 +5,8 @@ Systeemoverzicht van het elektrische systeem. Pekaway-onderdelen staan uitgebrei
 ## Voertuig
 
 - MAN TGE 3.180 4x4 LWB, bouwjaar 11-2024
-- Dynamo 250A, 12V startaccu
-- Motor-aan-signaal via KFG/CAN, niet via D+
+- Dynamo 230A (PR 9G0, NY4), 12V startaccu AGM 92 Ah / 520 A (PR J0B) + 2e accu AGM 92 Ah met scheidingsrelais en accubewaking (PR 8FE)
+- Motor-aan-signaal via een KFG-uitgang of klem 15 op klemmenstrook IS1, niet via D+ en niet door op de voertuig-CAN-bus te tappen (verboden volgens de Aufbaurichtlinie, zie [Aansluiten op het voertuig](voertuigaansluiting.md))
 
 ## Woonaccu 24V (zelfbouw, 8s1p)
 
@@ -20,7 +20,7 @@ Systeemoverzicht van het elektrische systeem. Pekaway-onderdelen staan uitgebrei
 | Ontladen | 184A continu · 540A gedurende 30 s · 635A gedurende 10 s · −30 tot 55°C |
 | Inwendige weerstand | ≤ 0,45 mΩ per cel |
 | Gewicht cellen | 3,37 kg per stuk, ±27 kg totaal |
-| BMS | JK-B2A8S30P (8S, 2A actieve balancer, 300A volgens typenaam) |
+| BMS | JK-B2A8S30P (8S, 2A actieve balancer, 300A volgens typenaam). Aanwezig exemplaar is de versie met alleen Bluetooth; waarschijnlijk vervangen door een bedrade versie (RS485/CAN). Let op: de Pekaway VAN PI ondersteunt officieel alleen JBD-BMS'en, JK nog niet. |
 | Monitor | Pekaway Wireless Shunt 500A in de min |
 
 ## Hoofdverdeling
