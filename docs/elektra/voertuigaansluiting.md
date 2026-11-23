@@ -82,7 +82,7 @@ Varianten 140 / 180 / **230 A** (9G0). Een extra of grotere dynamo alleen als VW
 | 2 | 2 Orions samen ≈80 A uit de 12V-kant | 8FE: max. 60 A continu, 190 A max. 15 min | ⚠ Als de Orions op de 8FE-uitgang komen: samen begrenzen tot **≤ 60 A** (bijv. 2× 30 A ingang ≈ 2× 16 A uit op 24V), of 8FH (200 A) laten beoordelen. |
 | 3 | Motor-aan via "CAN-bus / KFG" | CAN-bus uitlezen verboden; via KFG wel | ✅ Via een KFG-uitgang "motor draait" (programmeren) of klem 15 op de klemmenstrook, naar de Orion remote-ingangen en de CORE PRO. |
 | 4 | Pekaway CAN-integratie | alleen via KFG-interface (CiA 447 / J1939 / telematica) | ⬜ Uitzoeken welke berichten het KFG levert en of de CORE PRO J1939/FMS kan lezen. |
-| 5 | Lynx-min 50 mm² naar chassispunt achter links | alleen VW-massapunten, max. 4 kabelschoenen | ⬜ Controleren of het punt tussen de linker achterwielkast en de bumper een officieel massapunt is (stroomschema 801/1). |
+| 5 | Lynx-min 50 mm² naar chassispunt achter links | alleen VW-massapunten, max. 4 kabelschoenen | ◐ Op de linker langsligger achter zitten de officiële punten 65 / 710 / 711 / 762 (9 Nm), zie [Massapunten](massapunten.md). Studmaat en vrije plek ter plekke controleren. |
 | 6 | Lithium in de laadruimte | niet in de motorruimte | ✅ |
 | 7 | Lithiumaccu vernetwerkt met laadmanager | vereist | ⬜ Bedrade BMS (RS485/CAN) → CORE PRO / Orions. De BT-versie voldoet hier niet. |
 | 8 | Codering O1A + uitschakelen externe-ladingherkenning | vereist | ⬜ Laten uitvoeren door de dealer na inbouw. |

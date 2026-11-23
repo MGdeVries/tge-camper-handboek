@@ -34,6 +34,33 @@ theme:
     - content.code.copy
     - toc.follow
 
+extra:
+  alternate:
+    - name: Nederlands (origineel)
+      link: "#tr-nl"
+      lang: nl
+    - name: English
+      link: "#tr-en"
+      lang: en
+    - name: Deutsch
+      link: "#tr-de"
+      lang: de
+    - name: Français
+      link: "#tr-fr"
+      lang: fr
+    - name: Español
+      link: "#tr-es"
+      lang: es
+    - name: Italiano
+      link: "#tr-it"
+      lang: it
+    - name: Polski
+      link: "#tr-pl"
+      lang: pl
+
+extra_javascript:
+  - js/vertaal.js
+
 plugins:
   - search:
       lang: nl
@@ -61,6 +88,9 @@ nav:
   - Elektra:
       - elektra/index.md
       - Aansluiten op het voertuig: elektra/voertuigaansluiting.md
+      - Massapunten: elektra/massapunten.md
+      - KFG (klantfunctie-gateway): elektra/kfg.md
+      - Woonaccu: elektra/woonaccu.md
       - Componentenlijst: elektra/componentenlijst.md
       - Zekeringen rev A (mapping tool): elektra/zekeringkast-rev-a.md
       - Zekeringen rev B (voorstel): elektra/zekeringen-rev-b.md
@@ -70,10 +100,12 @@ nav:
   - Onderdelen:
       - onderdelen/index.md
       - Pekaway: onderdelen/pekaway.md
+      - Overige aftermarket: onderdelen/aftermarket.md
       - Sjabloon onderdeel: onderdelen/sjabloon.md
   - Waar zit wat:
       - locaties/index.md
   - Onderhoud & storingen:
       - onderhoud/index.md
+      - Reparatie-informatie: onderhoud/reparatie.md
   - Bronnen:
       - bronnen/index.md
