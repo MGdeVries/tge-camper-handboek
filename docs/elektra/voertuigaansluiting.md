@@ -10,7 +10,7 @@ Hoe het 24V-huishoudsysteem volgens de VW-opbouwrichtlijn op de TGE wordt aanges
 | PR | Wat | Belangrijk voor de ombouw |
 |---|---|---|
 | J0B | startaccu AGM 92 Ah / 520 A | alleen voor het voertuig |
-| 8FE | 2e accu AGM 92 Ah, scheidingsrelais, bewaakt door het KFG | het officiële aftakpunt voor opbouw-verbruikers; max. 60 A continu, 190 A kort |
+| 8FE | 2e accu AGM 92 Ah, scheidingsrelais, bewaakt door het KFG. Zit in de motorruimte aan bestuurderszijde, achter de koplamp. | het officiële aftakpunt voor opbouw-verbruikers; max. 60 A continu, 190 A kort |
 | 9G0 / NY4 | dynamo 230 A (14 V) | slimme dynamo met start-stop en remenergieterugwinning (7L6) |
 | IS3 | klemmenstrook + KFG met opbouwerprogrammering + telematica | motor-aan-signaal en voertuigdata (CAN) voor de Pekaway |
 | 9BA | geen accuhoofdschakelaar | |

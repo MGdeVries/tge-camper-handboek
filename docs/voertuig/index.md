@@ -18,28 +18,42 @@ Fabrieksgegevens volgens de PR-lijst (voertuigspecifieke informatie van MAN/VW).
 
 ## Afmetingen en gewichten
 
-Volgens het MANTED-datablad (TGE 3.180 4x4, Kasten, lange wielbasis, MJ25, tekening 7C0.000.011-MY25). Maten in mm, gewichten in kg.
+Maten in mm, gewichten in kg. Uitvoering **L4H3**: lange wielbasis, hoog dak.
 
-| Maat | Code | Waarde |
+| Maat | Waarde | Bron |
 |---|---|---|
-| Lengte | L103 | **7.391** |
-| Wielbasis | L101 | 4.490 |
-| Overhang voor / achter | L104 / L105 | 1.000 / 1.901 |
-| Breedte zonder / met spiegels | W103 / W144 | **2.040 / 2.425** |
-| Hoogte carrosserie (beladen) | H100-B | **2.503** – onbeladen hoger; dakopbouw (zonnepanelen, MaxxFan) komt erbij |
-| Laadlengte / op de vloer | L502-1 / L502-2 | 4.605 / 4.795 |
-| Laadruimtebreedte max. / tussen de wielkasten | W200 / W202 | 1.770 / 1.380 |
-| Laadruimtehoogte | H505 | 1.861 |
-| Laadvolume | | 15,5 m³ |
-| Doorgang achterdeuren b × h | W206 / H202 | 1.552 × 1.740 |
-| Doorgang schuifdeur l × h | L508 / H508 | 1.311 × 1.722 |
-| Laadvloerhoogte (beladen) | H196 | 573 |
-| Overhanghoek voor / achter | A116-1 / A116-2 | 20,9° / 8,8° |
-| Draaicirkel | D102 | 16,9 m |
-| Leeggewicht af fabriek (voor / achter) | | **2.575** (1.545 / 1.030) |
-| Toegestane massa | | 3.500 |
-| Toegestane aslast voor / achter | | 1.800 / 2.100 |
-| Laadvermogen af fabriek | | ±925 – hier gaat de hele ombouw vanaf |
+| Lengte | **6.830** | eigen opgave |
+| Wielbasis | 4.490 | MANTED |
+| Breedte zonder / met spiegels | **2.040 / 2.425** | MANTED |
+| Hoogte carrosserie (beladen) | ±2.500 – onbeladen hoger; dakopbouw (VNK-dakrek, zonnepanelen, MaxxFan) komt erbij | MANTED |
+| Laadruimtebreedte max. / tussen de wielkasten | 1.770 / 1.380 | MANTED |
+| Laadruimtehoogte | 1.861 | MANTED |
+| Doorgang achterdeuren b × h | 1.552 × 1.740 | MANTED |
+| Doorgang schuifdeur l × h | 1.311 × 1.722 | MANTED |
+| Overhanghoek voor | 20,9° | MANTED |
+| Toegestane massa | **3.500** | typeplaatje |
+| Toegestane treinmassa | **6.000** | typeplaatje |
+| Toegestane aslast voor / achter | **2.100 / 2.100** (versterkte vooras, PR VV8) | typeplaatje |
+| Leeggewicht | *nog wegen* | |
+
+!!! note "Let op bij het MANTED-datablad"
+    Het MANTED-datablad in het archief (lengte 7.391, overhang achter 1.901, laadlengte 4.605, 15,5 m³, leeggewicht 2.575, vooras 1.800) hoort bij de uitvoering met **verlengde overhang (L5)**. Die waarden gelden niet voor deze bus en zijn hier weggelaten. Breedte, wielbasis en de deuropeningen zijn gelijk.
+
+## Typeplaatje en emissie
+- Typeplaatje op de B-stijl: MAN Truck & Bus SE, typegoedkeuring e1\*2007/46\*1626, **type SYN1E**, motorcode DMZB.
+- Rookwaarde (absorptiecoëfficiënt): **0,50 m⁻¹**.
+
+## Banden en bandenspanning
+
+Volgens de sticker in de deurstijl (7C0 010 000 P), bij **volle belading**:
+
+| Band | Velg | Voor | Achter |
+|---|---|---|---|
+| 205/75 R16C 113/111 R | 6,5J×16 | 4,8 bar (70 psi) | 4,9 bar (71 psi) |
+| **235/65 R16C 115/113 R** ← *af fabriek op deze bus* | 6,5J×16 | **4,1 bar (60 psi)** | **4,2 bar (61 psi)** |
+| 235/60 R17C 117/115 R | 6,5J×17 | 4,2 bar (61 psi) | 4,3 bar (62 psi) |
+
+Spanning koud meten. Een camper rijdt vrijwel altijd op of tegen volle belading, dus deze waarden aanhouden.
 
 ## Aandrijving
 
@@ -59,7 +73,7 @@ Volgens het MANTED-datablad (TGE 3.180 4x4, Kasten, lange wielbasis, MJ25, teken
 | Onderdeel | Specificatie | PR-code |
 |---|---|---|
 | **Startaccu** | AGM **92 Ah / 520 A** (EN), 278×190×175 mm, ±27,5 kg. Zit in de vloer links, vóór de bestuurdersstoel. | J0B |
-| **2e accu** | AGM **92 Ah / 520 A**, cyclusvast, met **scheidingsrelais en accubewaking** door het energiemanagement in het KFG. Mag continu **60 A** leveren, kort (max. 15 min) **190 A**. | 8FE |
+| **2e accu** | AGM **92 Ah / 520 A**, cyclusvast, in de **motorruimte aan bestuurderszijde, achter de koplamp en net vóór het schutbord**, met **scheidingsrelais en accubewaking** door het energiemanagement in het KFG. Mag continu **60 A** leveren, kort (max. 15 min) **190 A**. | 8FE |
 | Dynamo | **230 A** (14 V), "dynamo met verhoogde capaciteit". Geen voorbereiding voor een 2e dynamo. | 9G0, NY4, 8HA |
 | Accuhoofdschakelaar | niet aanwezig | 9BA |
 | Klemmenstrook + KFG | elektrische klemmenstrook en klantspecifiek functiestuurapparaat (KFG) met programmeermogelijkheid voor de opbouwer, incl. telematicavoorbereiding | IS3 |
@@ -74,7 +88,7 @@ Volgens het MANTED-datablad (TGE 3.180 4x4, Kasten, lange wielbasis, MJ25, teken
 
 | Eigenschap | Waarde | PR-code |
 |---|---|---|
-| Banden | 235/65 R16C 115/113 R, allseason, lage rolweerstand | Q70, VG1 |
+| Banden | 235/65 R16C 115/113 R, allseason, lage rolweerstand – spanning zie boven | Q70, VG1 |
 | Velgen | 4× staal 6½J×16, draagvermogen 1.200 kg, zwart, wieldop met chroom embleem | C0E, 1NP |
 | Remmen | schijfremmen voor 16" · elektronische parkeerrem · hill hold en bergafrijhulp | 1LA, UH2, UG5 |
 | Vering | basisveren en -dempers, versterkte stabilisator · vooras versterkt | 2MF, VV8 |
@@ -87,7 +101,7 @@ Volgens het MANTED-datablad (TGE 3.180 4x4, Kasten, lange wielbasis, MJ25, teken
 | Onderdeel | Specificatie | PR-code |
 |---|---|---|
 | Airco | Climatronic in de cabine | 9AK |
-| Standkachel | water-hulpverwarming met afstandsbediening (alleen motor/cabine) | 7VL |
+| Standkachel | **Webasto Thermo Top Evo**, 12 V / 5,0 kW, diesel, max. werkdruk 2,5 bar, onderdeelnr. 5Q0.010.014.Q, E1-keur 122R-00 0258 / 10R-06 5627. Water-hulpverwarming met afstandsbediening, alleen motor/cabine. | 7VL |
 | Verwarmd | voorruit, stoelen bestuurder + bijrijder, stuurwiel, ruitensproeiers | 4GX, 4A3, 2FT, 8X1 |
 | 2e warmtewisselaar | niet aanwezig | 6AA |
 
@@ -128,6 +142,6 @@ Onderhoudsmelding variabel, 50.000 km of 2 jaar (VI4).
 ## Nog op te nemen
 - [ ] Motorolie- en koelvloeistofspecificatie en inhoud
 - [ ] Indeling zekeringhouders af fabriek
-- [ ] Bandenspanning (sticker in de deurstijl)
+- [ ] Inhoud AdBlue-tank (18 of 30 l)
 - [ ] Gewogen gewicht na de ombouw (voor / achter)
-- [ ] Exacte plek van de 2e accu (8FE) en de zekeringdoos in de bestuurdersstoelbak
+- [ ] Plek van de zekeringdoos van de 2e accu

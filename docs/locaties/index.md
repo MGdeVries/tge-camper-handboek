@@ -24,7 +24,12 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | Onderdeel | Zone | Precieze plek |
 |---|---|---|
 | Startaccu AGM 92 Ah (J0B) | Z01 | vloer links, vóór de bestuurdersstoel |
-| 2e accu AGM 92 Ah (8FE) + zekeringdoos | Z01 | *nog bevestigen* (zekeringdoos in de bestuurdersstoelbak) |
+| 2e accu AGM 92 Ah (8FE) | Z11 | motorruimte bestuurderszijde, achter de koplamp, net vóór het schutbord |
+| Webasto Thermo Top Evo (standkachel af fabriek) | Z11 | motorruimte |
+| Typeplaatje | Z01 | B-stijl |
+| Bandenspanningssticker | Z01 | deurstijl |
+| Wheeliams-wieldrager + Backrack | Z07 | achterdeuren |
+| VNK-dakrek | Z09 | dak |
 | Klemmenstrook (IS3) + massapunt klem 31 | Z01 | achter de onderste A-stijlbekleding rechtsvoor |
 | KFG + telematicaconnector | Z01 | onder het dashboard achter het dashboardkastje, passagierszijde |
 | 230V-stopcontact (9Z3) | Z01 | stoelframe links |
