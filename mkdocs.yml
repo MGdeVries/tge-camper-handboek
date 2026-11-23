@@ -1,0 +1,78 @@
+site_name: TGE Camper Handboek
+site_description: Handboek en database van een MAN TGE 3.180 4x4 camper – fabrieksspecs, aftermarket-onderdelen, elektra, verwarming en waar alles zit.
+site_url: https://mgdevries.github.io/tge-camper-handboek/
+repo_url: https://github.com/MGdeVries/tge-camper-handboek
+repo_name: MGdeVries/tge-camper-handboek
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: nl
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Donker
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Licht
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Start: index.md
+  - Voertuig:
+      - voertuig/index.md
+  - Elektra:
+      - elektra/index.md
+      - Componentenlijst: elektra/componentenlijst.md
+      - Zekeringen rev A (mapping tool): elektra/zekeringkast-rev-a.md
+      - Zekeringen rev B (voorstel): elektra/zekeringen-rev-b.md
+      - Pekaway-specificaties: elektra/pekaway-specs.md
+  - Verwarming:
+      - verwarming/index.md
+  - Onderdelen:
+      - onderdelen/index.md
+      - Pekaway: onderdelen/pekaway.md
+      - Sjabloon onderdeel: onderdelen/sjabloon.md
+  - Waar zit wat:
+      - locaties/index.md
+  - Onderhoud & storingen:
+      - onderhoud/index.md
+  - Bronnen:
+      - bronnen/index.md
