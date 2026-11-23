@@ -32,7 +32,7 @@ Bron: [camper-adapter.de – Bo-dapter Crafter 2 / MAN TGE](https://camper-adapt
 ## Aandachtspunten
 - **Kabels in de vloer** (Aufbaurichtlinie): temperatuurklasse ≥105 °C. Niet langs scherpe randen; houd ze gescheiden van de vloerverwarmingsbuis. Ribbelbuizen vastzetten zodat ze niet schuren. Laat ze uitkomen boven het niveau waar condens- of lekwater kan staan.
 - **Vloerverwarming in het circuit**: de koelvloeistof uit de Flow 5D kan 70–80 °C zijn. Plan of de vloer een eigen 3-wegklep en/of mengklep krijgt, net als de accu (V2 + AT0062).
-- **Vloerhoogte** gaat af van de stahoogte in de laadruimte (1.861 mm af fabriek). Ook de bevestiging van de Schnierle- of andere stoelen moet op de stalen platen aansluiten.
+- **Vloerhoogte** gaat af van de stahoogte in de laadruimte (1.861 mm af fabriek). Ook de bevestiging van stoelen en meubels moet op de stalen platen aansluiten.
 - **Sjorogen af fabriek** (PR 6B1) vallen onder de vloer. Bepaal of ze worden verwijderd of bereikbaar blijven.
 - **Bevestigingspunten** (stalen platen) op tekening vastleggen voordat de toplaag erop gaat, met maat vanaf het schot en de zijwand.
 
