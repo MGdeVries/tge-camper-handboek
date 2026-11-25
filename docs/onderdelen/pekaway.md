@@ -10,11 +10,11 @@ Alle Pekaway- (VAN PI-) onderdelen in het 24V-huishoudsysteem, met de rol van el
 
 | # | Onderdeel | SKU | Variant | Aantal | Prijs/st | Totaal | Status | Rol in het systeem | Aansluiting / groep |
 |---|---|---|---|---:|---:|---:|---|---|---|
-| 1 | Pekaway Solar Charger 40A (MPPT S40, "Silent") | WAY-MPPT-S40 | 40A | 1 | € 67,21 ex | € 67,21 ex | besteld | MPPT-laadregelaar voor 4× 200 Wp in 2s2p. Max 55V PV (Voc koud ±53V) | Lynx #1 · L1-3 · MEGA 40A · 10 mm² |
+| 1 | Pekaway Solar Charger 40A (MPPT S40, "Silent") | WAY-MPPT-S40 | 40A | 1 | € 67,21 ex | € 67,21 ex | besteld | MPPT-laadregelaar voor 4× 200 Wp in 2s2p. Max 55V PV (Voc koud ±53V) | Lynx B · 8 · zekering nader te bepalen (na kabellengte/-doorsnede) · 10 mm² |
 | 2 | Pekaway Wireless Shunt 500A | WAY-SHU-ESP-500 | 500A | 1 | € 100,00 ex | € 100,00 ex | besteld | Accumonitor in de min tussen BMS P− en Lynx. Wi-Fi naar CORE PRO | Min-leiding accu |
-| 3 | Pekaway FUSY zekeringblok (Mini) | WAY-FUS-MINI | Mini · 6 groepen | 1 | € 58,81 ex | € 58,81 ex | besteld | 24V-reserve | Lynx #1 · L1-4 · MEGA 40A · 10 mm² · groepen 501–506 |
+| 3 | Pekaway FUSY zekeringblok (Mini) | WAY-FUS-MINI | Mini · 6 groepen | 1 | € 58,81 ex | € 58,81 ex | besteld | 24V-reserve | Lynx A · 4 · MEGA 40A (60 A controleren) · 10 mm² · groepen 501–506 |
 | 4 | Pekaway FUSY zekeringblok (Standard) | WAY-FUS-100 | Standard · 12 groepen | 1 | € 84,02 ex | € 84,02 ex | besteld | 12V-verdeling (toilet, MaxxFans, MoonBox) | Via DC-DC 24→12V op groep 416 · groepen 301–312 |
-| 5 | PEKAWAY FUSY – zekeringblok met originele WAGO-hendelklemmen | — | Maxi · 18 groepen | 2 | € 149,99 | € 299,98 | te bestellen | 24V-verdeling Maxi 1 en Maxi 2 | Lynx #2 · L2-2 en L2-3 · MEGA 100A · 25 mm² · groepen 201–218 en 401–418 |
+| 5 | PEKAWAY FUSY – zekeringblok met originele WAGO-hendelklemmen | — | Maxi · 18 groepen | 2 | € 149,99 | € 299,98 | te bestellen | 24V-verdeling Maxi 1 en Maxi 2 | Lynx A · 2 en A · 3 · MEGA 100A · 25 mm² · groepen 201–218 en 401–418 |
 
 FUSY in het kort: ATO-steekzekeringen, max 30A per groep, 12/24V, groepdraad 0,5–4 mm² via WAGO-klemmen. Het Standard- en Maxi-blok worden gevoed via een M6-boutaansluiting, het Mini-blok via een WAGO-klem.
 

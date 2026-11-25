@@ -15,7 +15,7 @@
 </style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#d7262b"/></marker></defs>
 <text x="30" y="26" class="lb" style="font-size:13px">VERDELING 24V / 12V · GROEPEN</text>
 <rect x="30" y="40" width="610" height="498" class="box"/><rect x="30" y="40" width="610" height="24" class="hd"/>
-<text x="40" y="56" class="ht">Fusy Maxi 1 · 24V</text><text x="630" y="56" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx #2 · L2-2 · 100A</text>
+<text x="40" y="56" class="ht">Fusy Maxi 1 · 24V</text><text x="630" y="56" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx A · 2 · 100A</text>
 <rect x="61" y="74" width="6" height="450" class="rl"/>
 <text x="38" y="90.5" class="lb" style="font-size:11px;fill:#1d1d1b">201</text>
 <path d="M67 86.5H78" class="p" style="stroke-width:2.4"/>
@@ -144,7 +144,7 @@
 <text x="142" y="515.5" class="bt">3× Simarine STR1 (voorstel)</text>
 <text x="630" y="515.5" class="cb" text-anchor="end">3 W · 0,75 mm²</text>
 <rect x="30" y="568" width="610" height="198" class="box"/><rect x="30" y="568" width="610" height="24" class="hd"/>
-<text x="40" y="584" class="ht">Fusy Mini · 24V</text><text x="630" y="584" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx #1 · L1-4 · 40A</text>
+<text x="40" y="584" class="ht">Fusy Mini · 24V</text><text x="630" y="584" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx A · 4 · 40A</text>
 <rect x="61" y="602" width="6" height="150" class="rl"/>
 <text x="38" y="618.5" class="lb" style="font-size:11px;fill:#9aa3ad">501</text>
 <path d="M67 614.5H104" stroke="#c3c9d1" stroke-width="1.5" stroke-dasharray="3 3"/>
@@ -165,7 +165,7 @@
 <path d="M67 739.5H104" stroke="#c3c9d1" stroke-width="1.5" stroke-dasharray="3 3"/>
 <text x="112" y="743.5" class="cb" style="fill:#8a929c">reserve</text>
 <rect x="660" y="40" width="610" height="498" class="box"/><rect x="660" y="40" width="610" height="24" class="hd"/>
-<text x="670" y="56" class="ht">Fusy Maxi 2 · 24V</text><text x="1260" y="56" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx #2 · L2-3 · 100A</text>
+<text x="670" y="56" class="ht">Fusy Maxi 2 · 24V</text><text x="1260" y="56" class="ht" text-anchor="end" style="font-weight:400;font-size:11px">Lynx A · 3 · 100A</text>
 <rect x="691" y="74" width="6" height="450" class="rl"/>
 <text x="668" y="90.5" class="lb" style="font-size:11px;fill:#1d1d1b">401</text>
 <path d="M697 86.5H708" class="p" style="stroke-width:2.4"/>

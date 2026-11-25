@@ -9,7 +9,7 @@
 <text x="420" y="54" font-size="12" fill="#555">passagierszijde (rechts)</text><text x="420" y="258" font-size="12" fill="#555">bestuurderszijde (links)</text>
 <rect x="640" y="98" width="200" height="24" fill="none" stroke="#c0392b" stroke-dasharray="4 3"/>
 <text x="600" y="140" font-size="11" fill="#c0392b">linker langsligger achter (onderzijde)</text>
-<text x="600" y="152" font-size="11" fill="#c0392b">kandidaat Lynx-min: 65 / 710 / 711 / 762</text>
+<text x="600" y="152" font-size="11" fill="#c0392b">Earth point 762 (massa 24V/230V)</text>
 <circle cx="110" cy="105" r="11" fill="#fff" stroke="#8a8a8a" stroke-width="2"/><text x="110" y="109" font-size="9" text-anchor="middle" fill="#8a8a8a" font-weight="bold">12</text>
 <circle cx="95" cy="125" r="11" fill="#fff" stroke="#8a8a8a" stroke-width="2"/><text x="95" y="129" font-size="9" text-anchor="middle" fill="#8a8a8a" font-weight="bold">640</text>
 <circle cx="125" cy="125" r="11" fill="#fff" stroke="#8a8a8a" stroke-width="2"/><text x="125" y="129" font-size="9" text-anchor="middle" fill="#8a8a8a" font-weight="bold">641</text>

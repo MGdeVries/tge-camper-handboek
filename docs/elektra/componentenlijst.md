@@ -29,16 +29,21 @@ Systeemoverzicht van het elektrische systeem. Pekaway-onderdelen staan uitgebrei
 - Q1 hoofdschakelaar BEP 770-DP-EZ (400A continu / 600A 5 min / 1500A 10 s, 12–48V, M10, IP67, 13,5 Nm), alleen in de plus tussen F1 en Lynx +; tweede pool niet gebruikt
 - 2× Victron Lynx Distributor M10 (1000A, elk 4× MEGA-zekering met bewaking)
 
-| Lynx | Aansluiting | Zekering | Kabel |
+Poortnummering doorlopend over de twee Lynx-rails: Lynx A = poort 1–4 (links, bij de accu), Lynx B = poort 5–8. Volgorde van links naar rechts:
+
+| Poort | Aansluiting | Zekering | Kabel |
 |---|---|---|---|
-| #1 L1-1 | Orion XS 1400 #1, uitgang | MEGA 40A | 6 mm² |
-| #1 L1-2 | Orion XS 1400 #2, uitgang | MEGA 40A | 6 mm² |
-| #1 L1-3 | Pekaway S40 MPPT | MEGA 40A | 10 mm² |
-| #1 L1-4 | Fusy Mini (reserve) | MEGA 40A | 10 mm² |
-| #2 L2-1 | Omvormer 3000 VA | MEGA 200A* | 50 mm²* |
-| #2 L2-2 | Fusy Maxi 1 | MEGA 100A | 25 mm² |
-| #2 L2-3 | Fusy Maxi 2 | MEGA 100A | 25 mm² |
-| #2 L2-4 | reserve | — | — |
+| A · 1 | Omvormer 3000 VA (±125–135 A continu op 24V) | MEGA 200A* | 50 mm²* |
+| A · 2 | Zekeringkast 1 / Fusy Maxi 1 (max. 100 A) | MEGA 100A | 25 mm² |
+| A · 3 | Zekeringkast 2 / Fusy Maxi 2 (max. 100 A) | MEGA 100A | 25 mm² |
+| A · 4 | Zekeringkast 3 / Fusy Mini (max. 50 A) | MEGA 40A (60 A controleren) | 10 mm² (controleren) |
+| B · 5 | Vrij / reserve (scheiding tussen verbruikers en laders) | — | — |
+| B · 6 | Orion XS 1400 #1 (40 A laden) | MEGA 40A | 6 mm² |
+| B · 7 | Orion XS 1400 #2 (40 A laden) | MEGA 40A | 6 mm² |
+| B · 8 | MPPT Pekaway S40 (±28 A laden op 24V) | nader te bepalen (na kabellengte/-doorsnede) | 10 mm² |
+
+- Piekbelasting huisaccu: ±150 A op 24V, wanneer de omvormer de inductiekookplaat voedt. F1 Class-T 250 A en 184 A continu van de cellen blijven ongewijzigd.
+- Zekeringen waarvan de kabel nog niet vastligt: nader te bepalen na kabellengte en -doorsnede.
 
 \* Nog controleren in de handleiding van het exacte omvormermodel. Alle kabeldoorsneden zijn voorlopig en gaan uit van korte lengtes. Na het meten narekenen.
 
@@ -77,7 +82,7 @@ Systeemoverzicht van het elektrische systeem. Pekaway-onderdelen staan uitgebrei
 | Baltica-systeem (vloeistof, Flow 5D) | 24V | 1 |
 | CHX warmtewisselaar met ventilator AT3-CHX24-S | 24V | 2 |
 | Elektrische 3-wegklep (24V-versie, in ontwikkeling bij Autoterm; wordt gekocht zodra leverbaar) | 24V | 4 |
-| Instelbare thermostatische mengklep AT0062 | — | 1 |
+| ~~Instelbare thermostatische mengklep AT0062~~ | vervalt: geen mengklep in het koelvloeistofcircuit | — |
 
 ## Tankniveau
 

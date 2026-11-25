@@ -43,4 +43,4 @@ Zelfgebouwde LiFePO4-accu: **8 cellen in serie (8s1p), 25,6 V nominaal, ±4,7 kW
 | 15 / 16 | temperatuursensor 3: + rood / − zwart |
 
 ## Verwarming en isolatie
-De accubak is geïsoleerd met **20 mm XPS**. Onder de cellen zit een **vloeistofwarmtewisselaar**, aangesloten op het Flow 5D-circuit via klep V2 en mengklep AT0062 (30–35 °C). Zie [Verwarming](../verwarming/index.md).
+De accubak is geïsoleerd met **20 mm XPS**. Onder de cellen zit een **vloeistofwarmtewisselaar**, aangesloten op het Flow 5D-circuit. De koelvloeistof (±80 °C) komt in korte pulsen via het centrale kleppenblok; de pulsduur wordt empirisch bepaald. Zie [Verwarming](../verwarming/index.md).
