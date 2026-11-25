@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560 1070" role="img" aria-label="Blad 1 energie en laden: woonaccu links onder, Lynx A en B midden met poorten 1 tot 8, zon 2s2p rechtsboven, 12V voertuigdelen rechts.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560 1130" role="img" aria-label="Blad 1 energie en laden: woonaccu links onder, Lynx A en B midden met poorten 1 tot 8, zon 2s2p rechtsboven, 12V voertuigdelen rechts.">
 <rect width="100%" height="100%" fill="#fff"/><defs><style>.p{stroke:#d7262b;stroke-width:3.2;fill:none;stroke-linejoin:round}
 .n{stroke:#1d1d1b;stroke-width:3.2;fill:none;stroke-linejoin:round}
 .ac{stroke:#7a4fb0;stroke-width:3;fill:none}
@@ -15,7 +15,7 @@
 <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1d1d1b"/></marker>
 <marker id="arp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#7a4fb0"/></marker>
 <g id="pvp"><rect width="70" height="50" class="pv"/><path d="M0 17H70M0 33H70M14 0V50M28 0V50M42 0V50M56 0V50" stroke="#5f7fb8" stroke-width=".8"/></g>
-</defs>
+</defs><g transform="translate(0,40)">
 <use href="#pvp" x="1040" y="60"/>
 <use href="#pvp" x="1120" y="60"/>
 <use href="#pvp" x="1200" y="60"/>
@@ -31,8 +31,8 @@
 
 
 
-<path d="M325 187V4H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
-<text x="600" y="18" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
+<path d="M325 187V-26H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
+<text x="600" y="-10" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
 <rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
 <text x="36" y="655" class="ht">WOONACCU 24V · 8s LiFePO4</text>
 <text x="36" y="676" class="bt" style="font-size:10.5px">8 × 3,2V 184Ah · ±4,7 kWh</text>
@@ -178,4 +178,4 @@
 <path d="M360 8H396" stroke="#7a4fb0" stroke-width="1.8"/><text x="404" y="12" class="bt">meting 2,5 mm²</text>
 <rect x="520" y="1" width="30" height="14" class="fz"/><text x="558" y="12" class="bt">zekering</text>
 <text x="640" y="12" class="cb">Min per apparaat weggelaten. Kabels voorlopig, na meting narekenen. 2e accu (8FE): voertuig-fabrieksuitrusting, niet voor de opbouw.</text></g>
-</svg>
+</g><g font-family="Open Sans,Arial,sans-serif"><rect x="1360" y="1040" width="190" height="64" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1360 1060H1550" stroke="#1d1d1b" stroke-width="1"/><text x="1368" y="1054" font-size="10" font-weight="700" fill="#1d1d1b">Naam: Blad 1 · Energie &amp; laden</text><text x="1368" y="1077" font-size="9.5" fill="#1d1d1b">Datum: 25-11-2026</text><text x="1368" y="1094" font-size="9.5" fill="#1d1d1b">Status: concept</text></g></svg>
