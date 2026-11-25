@@ -8,19 +8,26 @@
 
 ![Blad 4 – Verwarmingscircuit](blad4-verwarmingscircuit.svg)
 
-Eén serielus: per apparaat een 24V-3-wegklep (apparaat óf bypass), retour direct terug op de hoofdleiding. De accu krijgt alleen gemengd water van 30–35°C via mengklep AT0062.
+Centraal kleppenblok met **4 24V-kleppen**: één per circuit (interieur, woonaccu, verswater, grijswater, en de vloer als eigen circuit). Er staat steeds maar **één circuit tegelijk open**. Er zit **geen mengklep** in het koelvloeistofcircuit; de koelvloeistof blijft ±80 °C. De enige mengklep zit op het sanitaire warmwater.
+
+Voor de woonaccu wordt de koelvloeistof van ±80 °C in **korte pulsen** aangeboden: start met 10 s open en bepaal de juiste duur empirisch, op basis van de continue meting van buiten- en accutemperatuur.
+
+!!! note "Vervallen"
+    Mengklep AT0062 en de V2-bypass vervallen. Het schema (blad 4) moet nog worden aangepast.
 
 ## Regeling (CORE PRO)
 
-| Klep | Naar apparaat als | Naar bypass als | Zonder stroom |
-|---|---|---|---|
-| V1 interieur | T5 < instelling | temperatuur bereikt / zomer | n.v.t. |
-| V2 accu | T1 < 5°C | T1 > 15–20°C **of** T2 > 40°C | **bypass (verplicht)** |
-| V3 verswater | T3 < 3°C | T3 > 8°C | bypass |
-| V4 grijswater | T4 < 3°C | T4 > 8°C | bypass |
+| Circuit | Klep open als | Opmerking |
+|---|---|---|
+| Interieur | T5 < instelling | één circuit tegelijk open |
+| Woonaccu | T1 (accu) laag, in pulsen | start 10 s open, duur empirisch bepalen op buiten- en accutemperatuur |
+| Verswater | T3 < 3 °C | |
+| Grijswater | T4 < 3 °C | |
+| Vloer | apart aangestuurd | eigen circuit, zie [Vloer](../interieur/vloer.md) |
 
 ## Open punten
-- [ ] Vloerverwarming (buis in de Bo-dapter-vloer) als extra apparaat in de serielus: eigen klep + mengklep?
-- [ ] 24V-kleppen Autoterm: leverbaar? stand zonder stroom?
+- [ ] Vloerverwarming (buis in de Bo-dapter-vloer) als eigen circuit op het centrale kleppenblok (klep 4)
+- [ ] 24V-kleppen: leverbaar? stand zonder stroom?
+- [ ] Pulsduur voor de woonaccu bepalen op basis van metingen (buiten- en accutemperatuur)
 - [ ] 2-wegkranen tanks: in het koelvloeistofcircuit of aftapkranen?
 - [ ] Extra vloeistofpomp nodig naast de pomp van de Flow 5D?

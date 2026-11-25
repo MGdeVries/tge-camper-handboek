@@ -6,7 +6,7 @@
 <line x1="330" y1="60" x2="330" y2="270" stroke="#999" stroke-dasharray="5 4"/>
 <text x="78" y="285" font-size="12" fill="#555">motorruimte</text><text x="215" y="285" font-size="12" fill="#555">cabine</text><text x="540" y="285" font-size="12" fill="#555">laadruimte / woongedeelte</text>
 <text x="20" y="170" font-size="12" fill="#555" transform="rotate(-90 20 170)">VOOR</text><text x="868" y="150" font-size="12" fill="#555" transform="rotate(90 868 150)">ACHTER</text>
-<text x="420" y="54" font-size="12" fill="#555">bestuurderszijde (links)</text><text x="420" y="258" font-size="12" fill="#555">passagierszijde (rechts)</text>
+<text x="420" y="54" font-size="12" fill="#555">passagierszijde (rechts)</text><text x="420" y="258" font-size="12" fill="#555">bestuurderszijde (links)</text>
 <rect x="640" y="98" width="200" height="24" fill="none" stroke="#c0392b" stroke-dasharray="4 3"/>
 <text x="600" y="140" font-size="11" fill="#c0392b">linker langsligger achter (onderzijde)</text>
 <text x="600" y="152" font-size="11" fill="#c0392b">kandidaat Lynx-min: 65 / 710 / 711 / 762</text>

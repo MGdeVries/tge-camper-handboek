@@ -13,7 +13,8 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | Z04 | Koelkast (staand) |
 | Z05 | Garderobe, bestuurderszijde |
 | Z06 | Badkamer |
-| Z07 | Garage / techniekruimte achter |
+| Z07 bestuurderszijde | Garage / techniekruimte achter, bestuurderszijde: (bijna) alle elektra |
+| Z07 passagierszijde | Garage / techniekruimte achter, passagierszijde: waterpomp, filters, Baltica-vloeistoftank |
 | Z08 | Bedden achter (dwars) + kinderbedden |
 | Z09 | Plafond / dak (MaxxFans, zonnepanelen, dakrek) |
 | Z10 | Onder de bus (tanks, leidingen, dieseltank) |
@@ -30,7 +31,12 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | Typeplaatje | Z01 | B-stijl |
 | Bandenspanningssticker | Z01 | deurstijl |
 | Wheeliams-wieldrager + Backrack | Z07 | achterdeuren |
-| VNK-dakrek | Z09 | dak |
+| Van Vonk-dakrek | Z09 | dak |
+| MaxxFan Deluxe Smoke | Z09 | dak, midden tussen spant 2 en 3 (geteld vanaf achteren) |
+| MaxxFan Dome Plus LED (links) | Z09 | dak, tussen rib 4 en 5 |
+| MaxxFan Dome Plus LED (rechts) | Z09 | dak, tussen rib 6 en 7 (in het vak tegen rib 7, vrijwel aan de voorzijde van de schuifdeur) |
+| Scanstrut DS-H-MULTI-BLK (4×) | Z09 | dak, per zijde één tussen rib 1 en 2 en één tussen rib 7 en 8 |
+| OGO Origin 5 composttoilet | Z06 | badkamer |
 | Voedingskabels Orion XS (2× 25 mm²) + Ablemail | Z12 | in ribbelbuizen tussen wagenbodem en Bo-dapter |
 | Vloerverwarmingsbuis | Z12 | in de Bo-dapter-isolatie |
 | Bevestigingspunten interieur | Z12 | stalen platen met blindklinkmoeren onder de houten toplaag |
@@ -39,4 +45,4 @@ De bus is opgedeeld in **zones**. Elk onderdeel in de database verwijst naar een
 | 230V-stopcontact (9Z3) | Z01 | stoelframe links |
 | MEGA 100A (12V-voeding Orions) | Z01 | direct achter de startaccu |
 | Blue Sea 6007 selector | Z01 | onderin B-stijl, links achter bestuurdersstoel |
-| Chassispunt min huishoudsysteem | Z10 | tussen linker achterwielkast en achterbumper |
+| Earth point 762 (massa 24V/230V) | Z10 | linker langsligger achter, tussen linker achterwielkast en achterbumper |

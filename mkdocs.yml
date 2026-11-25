@@ -33,6 +33,7 @@ theme:
     - content.action.edit
     - content.code.copy
     - toc.follow
+    - toc.integrate
 
 extra:
   alternate:

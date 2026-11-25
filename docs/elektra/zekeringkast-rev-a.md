@@ -83,3 +83,7 @@ Gevoed via de DC-DC 24→12V op groep 416.
 - **Kleppen 408–411:** 24V. De Autoterm 3-wegkleppen worden in de 24V-uitvoering gekocht zodra Autoterm die levert. De 12V-versie FR061 wordt niet gebruikt.
 - Bij 412–415 en 417 ontbreken nog zekeringwaarden.
 - 412 en 415 hebben dezelfde naam. Controleren of dat twee pompen zijn.
+
+## Opmerking bij blad 2
+
+De zekeringkasten zijn zo uitgevoerd dat er altijd nog een extra verbruiker bij kan, zonder ingrijpende verbouwing.

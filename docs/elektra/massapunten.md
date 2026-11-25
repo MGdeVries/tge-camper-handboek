@@ -43,8 +43,11 @@ Officiële massapunten van de carrosserie volgens VW-stroomschema **801 "Einbauo
 
 | Aansluiting | Massapunt | Status |
 |---|---|---|
-| Lynx-min 50 mm² (huishoudsysteem, retour Orions) | een van **65 / 710 / 711 / 762** op de linker langsligger achter. Dit is het gebied "tussen linker achterwielkast en achterbumper". | ⬜ Ter plekke kiezen welk punt het dichtst bij de Lynx zit en hoeveel kabelschoenen er al op zitten. Aanhaalmoment **9 Nm**. |
+| Lynx-min 50 mm² (massa 24V/230V-installatie, retour Orions) | **Earth point 762** (linker langsligger achter, punt 4). Dit is het gebied "tussen linker achterwielkast en achterbumper". Alternatieven op dezelfde langsligger: 65 / 710 / 711. | ⬜ Ter plekke kiezen welk punt het dichtst bij de Lynx zit en hoeveel kabelschoenen er al op zitten. Aanhaalmoment **9 Nm**. |
 | Signaalmassa klemmenstrook / KFG | 43 (rechter A-stijl, onderzijde) | ⬜ |
+
+!!! info "Originele tekening (Earthing points)"
+    De Earthing points-tekening staat op Google Drive: [Earthing points (PDF)](https://drive.google.com/file/d/1LNZQtWXuenfaBzx_99ZASew-4w2k_D9J/view). De tekening zelf wordt hier niet gepubliceerd.
 
 !!! warning "Let op"
     Een aanhaalmoment van 9 Nm hoort meestal bij een M6-bout (20 Nm bij M8). Een 50 mm²-kabelschoen met een M8- of M10-gat past daar niet zonder meer op. Controleer de studmaat voordat je kabelschoenen bestelt. Zet de Lynx-min niet op een punt waar al 4 kabelschoenen zitten.

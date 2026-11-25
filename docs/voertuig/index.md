@@ -25,7 +25,7 @@ Maten in mm, gewichten in kg. Uitvoering **L4H3**: lange wielbasis, hoog dak.
 | Lengte | **6.830** | eigen opgave |
 | Wielbasis | 4.490 | MANTED |
 | Breedte zonder / met spiegels | **2.040 / 2.425** | MANTED |
-| Hoogte carrosserie (beladen) | ±2.500 – onbeladen hoger; dakopbouw (VNK-dakrek, zonnepanelen, MaxxFan) komt erbij | MANTED |
+| Hoogte carrosserie (beladen) | ±2.500 – onbeladen hoger; dakopbouw (Van Vonk-dakrek, zonnepanelen, MaxxFan) komt erbij | MANTED |
 | Laadruimtebreedte max. / tussen de wielkasten | 1.770 / 1.380 | MANTED |
 | Laadruimtehoogte | 1.861 | MANTED |
 | Doorgang achterdeuren b × h | 1.552 × 1.740 | MANTED |
