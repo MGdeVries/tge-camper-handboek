@@ -86,7 +86,7 @@
 <text x="689" y="266" class="lb" style="font-size:9.5px">40A (60A?)</text>
 <text x="689" y="282" class="cb" style="font-size:9px">10 mm²</text>
 <text x="689" y="300" class="lb" style="font-size:9.5px">A · 4</text>
-<path d="M680 330V430" class="p"/>
+
 <path d="M820 230V330" class="p"/>
 <text x="829" y="282" class="cb" style="font-size:9px">vrij</text>
 <text x="829" y="300" class="lb" style="font-size:9.5px">B · 5</text>
@@ -119,10 +119,10 @@
 <text x="568" y="445" class="ht" style="font-size:11px">Fusy Maxi 2</text>
 <text x="568" y="468" class="bt" style="font-size:10px">24V 301–318</text>
 <text x="568" y="482" class="bt" style="font-size:10px">max 100A</text>
-<rect x="643" y="430" width="74" height="100" class="box"/><rect x="643" y="430" width="74" height="22" class="hd"/>
-<text x="648" y="445" class="ht" style="font-size:11px">Fusy Mini</text>
-<text x="648" y="468" class="bt" style="font-size:10px">24V 501–506</text>
-<text x="648" y="482" class="bt" style="font-size:10px">max 50A</text>
+<rect x="643" y="430" width="132" height="100" class="box"/><rect x="643" y="430" width="132" height="22" class="hd"/>
+<text x="648" y="445" class="ht" style="font-size:11px">Fusy Standard 1 · 12V</text>
+<text x="648" y="468" class="bt" style="font-size:10px">12V 401–412</text>
+<text x="648" y="482" class="bt" style="font-size:10px">via DC/DC uit 316</text><text x="648" y="496" class="bt" style="font-size:10px">max 40A</text>
 <rect x="783" y="430" width="74" height="100" class="box"/><rect x="783" y="430" width="74" height="22" class="hd"/>
 <text x="788" y="445" class="ht" style="font-size:11px">Reserve</text>
 <text x="788" y="468" class="bt" style="font-size:10px">scheiding</text>
