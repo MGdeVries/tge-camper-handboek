@@ -24,14 +24,14 @@
 <path d="M1075 60V40H1420" class="p"/>
 <path d="M1155 110V125H1400" class="n"/>
 <path d="M1235 60V40" class="p"/><path d="M1315 110V125" class="n"/>
-<text x="1040" y="142" class="cb" style="font-size:9.5px">string A (2 in serie)</text><text x="1200" y="142" class="cb" style="font-size:9.5px">string B (2 in serie)</text>
-<text x="1040" y="158" class="lb" style="font-size:10.5px">ZON 2s2p · 4× 200 Wp · 800 Wp</text>
-<path d="M1420 40V465H1097" class="p"/>
-<path d="M1400 125V445H1097" class="n"/><path d="M1400 284H1420" stroke="#1d1d1b" stroke-width="1.2" stroke-dasharray="3 2"/><rect x="1394" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1400 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 304L1405 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1405 294Q1408 292 1409 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><rect x="1414" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1420 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1416 304L1425 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1425 294Q1428 292 1429 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1386" y="300" class="cb" style="font-size:9px" text-anchor="end">Schneider Electric Acti9</text><text x="1386" y="314" class="cb" style="font-size:9px" text-anchor="end">C60H-DC 2P 32A</text>
+<text x="1432" y="52" class="cb" style="font-size:8.5px">Craig 200 Wp × 4</text><text x="1432" y="64" class="cb" style="font-size:8.5px">2s2p · 800 Wp</text><text x="1432" y="76" class="cb" style="font-size:8.5px">Voc 47 V per string</text><text x="1432" y="88" class="cb" style="font-size:8.5px">(koud ≈ 53 V)</text><text x="1432" y="100" class="cb" style="font-size:8.5px">Isc 23 A per string</text><text x="1432" y="112" class="cb" style="font-size:8.5px">Berekend (array):</text><text x="1432" y="124" class="cb" style="font-size:8.5px">Voc 47 V (koud 53 V)</text><text x="1432" y="136" class="cb" style="font-size:8.5px">Isc 46 A (2 strings)</text><text x="1040" y="30" class="cb" style="font-size:9.5px">string A (2 in serie)</text><text x="1200" y="30" class="cb" style="font-size:9.5px">string B (2 in serie)</text>
+<text x="1040" y="16" class="lb" style="font-size:10.5px">ZON 2s2p · 4× 200 Wp · 800 Wp</text>
+<path d="M1420 40V465H1097" class="p"/><text x="1180" y="480" class="cb" style="font-size:9px">6m, 6mm²</text>
+<path d="M1400 125V445H1097" class="n"/><text x="1180" y="436" class="cb" style="font-size:9px">6m, 6mm²</text><path d="M1400 284H1420" stroke="#1d1d1b" stroke-width="1.2" stroke-dasharray="3 2"/><rect x="1394" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1400 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 304L1405 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1405 294Q1408 292 1409 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><rect x="1414" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1420 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1416 304L1425 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1425 294Q1428 292 1429 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1386" y="300" class="cb" style="font-size:9px" text-anchor="end">Schneider Electric Acti9</text><text x="1386" y="314" class="cb" style="font-size:9px" text-anchor="end">C60H-DC 2P 32A</text>
 
 
 
-<path d="M325 187V25H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
+<path d="M325 187V4H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
 <text x="600" y="18" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
 <rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
 <text x="36" y="655" class="ht">WOONACCU 24V · 8s LiFePO4</text>
@@ -52,10 +52,10 @@
 <path d="M280 640V230H300" class="p"/>
 <path d="M400 195H430" class="n"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="286" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
-<path d="M328 230H338" class="p"/>
-<rect x="330" y="206" width="52" height="50" fill="none" stroke="#1d1d1b" stroke-width="1.4"/><circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
-<path d="M372 230H430" class="p"/>
-<text x="336" y="268" class="lb" style="font-size:9.5px">Q1 BEP</text>
+<path d="M328 230H346" class="p"/>
+<rect x="346" y="206" width="52" height="50" fill="none" stroke="#1d1d1b" stroke-width="1.4"/><circle cx="354" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="388" cy="230" r="2.6" fill="#1d1d1b"/><path d="M354 230L380 216" stroke="#1d1d1b" stroke-width="2.2"/>
+<path d="M388 230H430" class="p"/>
+<text x="346" y="268" class="lb" style="font-size:9.5px">Q1 BEP</text>
 <rect x="430" y="170" width="350" height="160" class="fr"/><text x="438" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #1 · poort 1–4 (links, bij de accu)</text>
 <rect x="780" y="170" width="350" height="160" class="fr"/><text x="788" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #2 · poort 5–8</text>
 <path d="M430 195H1100" class="n" style="stroke-width:5"/>
@@ -143,7 +143,7 @@
 <path d="M520 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M600 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M680 530V620" class="p" marker-end="url(#ar)"/>
-<text x="520" y="656" class="cb">→ blad 2 (24V groepen)</text>
+<text x="600" y="642" class="cb" text-anchor="middle">→ blad 2 (24V groepen)</text>
 <path d="M1450 600V590H1340" class="p"/>
 <rect x="1383" y="582" width="14" height="16" class="fz"/><text x="1372" y="614" class="lb" style="font-size:9.5px">F2 100A</text>
 <rect x="1250" y="540" width="90" height="60" class="box"/>
