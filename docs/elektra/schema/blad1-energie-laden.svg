@@ -27,7 +27,7 @@
 <text x="1040" y="142" class="cb" style="font-size:9.5px">string A (2 in serie)</text><text x="1200" y="142" class="cb" style="font-size:9.5px">string B (2 in serie)</text>
 <text x="1040" y="158" class="lb" style="font-size:10.5px">ZON 2s2p · 4× 200 Wp · 800 Wp</text>
 <path d="M1420 40V465H1097" class="p"/>
-<path d="M1400 125V445H1097" class="n"/>
+<path d="M1400 125V286M1400 342V445H1097" class="n"/><rect x="1392" y="286" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 290L1404 310" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1401 305Q1404 300 1406 306" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1384" y="306" class="cb" style="font-size:9.5px" text-anchor="end">DC-scheider min</text>
 <rect x="1412" y="230" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/>
 <path d="M1416 234L1424 254" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1421 249Q1424 244 1426 250" stroke="#1d1d1b" stroke-width="1.2" fill="none"/>
 <text x="1432" y="246" class="cb" style="font-size:9.5px">DC-automaat</text>
@@ -49,8 +49,8 @@
 <rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n"/>
-<path d="M280 640V230H300" class="p"/>
-<path d="M350 195H430" class="n"/><rect x="300" y="186" width="50" height="18" class="box" style="fill:#f4f7fb"/><text x="303" y="199" class="lb" style="font-size:8.5px">Shunt 500A</text>
+<path d="M280 640V434M280 406V230H300" class="p"/><rect x="272" y="406" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M276 410L284 430" stroke="#1d1d1b" stroke-width="1.6"/><path d="M281 425Q284 420 286 426" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="296" y="424" class="cb" style="font-size:9px">Aan/uit huishoudaccu</text>
+<path d="M400 195H430" class="n"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="296" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
 <path d="M328 230H338" class="p"/>
 <circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
@@ -61,7 +61,7 @@
 <path d="M430 195H1100" class="n" style="stroke-width:5"/>
 <path d="M430 230H1130" class="p" style="stroke-width:6"/>
 
-<path d="M1100 195H1200V262" class="n"/><path d="M1180 262H1200M1183 268H1197M1186 274H1194" stroke="#1d1d1b" stroke-width="2"/>
+<path d="M1100 195H1190V262" class="n"/><path d="M1180 262H1200M1183 268H1197M1186 274H1194" stroke="#1d1d1b" stroke-width="2"/>
 <text x="1206" y="272" class="cb" style="font-size:9.5px">Earth point 762 (chassis)</text>
 <path d="M440 230V330" class="p"/>
 <rect x="434" y="255" width="12" height="14" class="fz"/>
@@ -117,7 +117,7 @@
 <text x="488" y="482" class="bt" style="font-size:10px">max 100A</text>
 <rect x="563" y="430" width="74" height="100" class="box"/><rect x="563" y="430" width="74" height="22" class="hd"/>
 <text x="568" y="445" class="ht" style="font-size:11px">Fusy Maxi 2</text>
-<text x="568" y="468" class="bt" style="font-size:10px">24V 401–418</text>
+<text x="568" y="468" class="bt" style="font-size:10px">24V 301–318</text>
 <text x="568" y="482" class="bt" style="font-size:10px">max 100A</text>
 <rect x="643" y="430" width="74" height="100" class="box"/><rect x="643" y="430" width="74" height="22" class="hd"/>
 <text x="648" y="445" class="ht" style="font-size:11px">Fusy Mini</text>
@@ -144,8 +144,8 @@
 <path d="M600 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M680 530V620" class="p" marker-end="url(#ar)"/>
 <text x="520" y="656" class="cb">→ blad 2 (24V groepen)</text>
-<path d="M1490 600V500H1295V540" class="p"/>
-<rect x="1483" y="536" width="14" height="16" class="fz"/><text x="1400" y="548" class="lb" style="font-size:9.5px">F2 100A</text>
+<path d="M1450 600V590H1340" class="p"/>
+<rect x="1383" y="582" width="14" height="16" class="fz"/><text x="1372" y="614" class="lb" style="font-size:9.5px">F2 100A</text>
 <rect x="1250" y="540" width="90" height="60" class="box"/>
 <circle cx="1295" cy="570" r="13" fill="#fff" stroke="#1d1d1b" stroke-width="1.2"/>
 <circle cx="1295" cy="570" r="2.4" fill="#1d1d1b"/><path d="M1295 570L1283 562" stroke="#1d1d1b" stroke-width="2"/>
