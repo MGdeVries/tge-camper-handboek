@@ -49,11 +49,11 @@
 <rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n"/>
-<path d="M280 640V434M280 406V230H300" class="p"/><rect x="274" y="406" width="12" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M280 428V421" stroke="#1d1d1b" stroke-width="1.4"/><path d="M276 421L285 412" stroke="#1d1d1b" stroke-width="1.6"/><path d="M285 412Q288 409 289 407" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="296" y="424" class="cb" style="font-size:9px">Aan/uit huishoudaccu</text>
+<path d="M280 640V230H300" class="p"/>
 <path d="M400 195H430" class="n"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
-<rect x="300" y="222" width="28" height="16" class="fz"/><text x="296" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
+<rect x="300" y="222" width="28" height="16" class="fz"/><text x="286" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
 <path d="M328 230H338" class="p"/>
-<circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
+<rect x="330" y="206" width="52" height="50" fill="none" stroke="#1d1d1b" stroke-width="1.4"/><circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
 <path d="M372 230H430" class="p"/>
 <text x="336" y="268" class="lb" style="font-size:9.5px">Q1 BEP</text>
 <rect x="430" y="170" width="350" height="160" class="fr"/><text x="438" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #1 · poort 1–4 (links, bij de accu)</text>
@@ -139,7 +139,7 @@
 <text x="1028" y="445" class="ht" style="font-size:11px">MPPT S40</text>
 <text x="1028" y="468" class="bt" style="font-size:10px">max 40A</text>
 <text x="1028" y="482" class="bt" style="font-size:10px">±28A/800Wp</text>
-<path d="M440 530V620" class="ac" marker-end="url(#arp)"/><text x="446" y="642" class="cb" style="fill:#7a4fb0">230V AC → blad 3</text>
+<path d="M440 530V620" class="ac" marker-end="url(#arp)"/><text x="440" y="642" class="cb" text-anchor="middle" style="fill:#7a4fb0">230V AC → blad 3</text>
 <path d="M520 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M600 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M680 530V620" class="p" marker-end="url(#ar)"/>
@@ -161,7 +161,7 @@
 <rect x="1240" y="640" width="90" height="80" class="box"/><rect x="1240" y="640" width="90" height="22" class="hd"/>
 <text x="1245" y="655" class="ht" style="font-size:10px">2e accu · 8FE</text><text x="1245" y="676" class="bt" style="font-size:9px">AGM 92 Ah</text><text x="1245" y="689" class="bt" style="font-size:9px">60A cont.</text><text x="1245" y="702" class="bt" style="font-size:9px">190A 15 min</text>
 <path d="M1330 690H1346" class="p"/><rect x="1346" y="682" width="12" height="16" class="fz"/><path d="M1358 690H1380" class="p"/>
-<text x="1346" y="714" class="cb" style="font-size:8.5px">scheidingsrel.</text>
+<text x="1346" y="714" class="cb" style="font-size:8.5px">scheidingsrelais</text>
 <path d="M1380 690H1452V670" class="p"/>
 <path d="M1466 670V706" class="n"/><path d="M1454 706H1478M1458 712H1474M1462 718H1470" stroke="#1d1d1b" stroke-width="2"/>
 <rect x="1440" y="740" width="105" height="60" class="box"/><rect x="1440" y="740" width="105" height="22" class="hd"/>
@@ -171,7 +171,7 @@
 <path d="M1500 740V670" class="p"/>
 <rect x="860" y="740" width="230" height="70" class="box"/><rect x="860" y="740" width="230" height="22" class="hd"/>
 <text x="866" y="756" class="ht">Pekaway CORE PRO</text><text x="866" y="778" class="bt" style="font-size:10.5px">stuurt Orions op motor-aan</text><text x="866" y="794" class="bt" style="font-size:10.5px">leest shunt, MPPT, BMS</text>
-<text x="860" y="826" class="cb" style="font-size:9.5px">RJ10-uitlezing Lynx: nog te bevestigen</text>
+<text x="975" y="826" class="cb" text-anchor="middle" style="font-size:9.5px">RJ10-uitlezing Lynx: nog te bevestigen</text>
 <g transform="translate(30,1040)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
 <path d="M140 8H176" class="n"/><text x="184" y="12" class="bt">− min</text>
 <path d="M260 8H296" class="ac"/><text x="304" y="12" class="bt">230V AC</text>
