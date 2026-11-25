@@ -27,10 +27,10 @@
 <text x="1040" y="142" class="cb" style="font-size:9.5px">string A (2 in serie)</text><text x="1200" y="142" class="cb" style="font-size:9.5px">string B (2 in serie)</text>
 <text x="1040" y="158" class="lb" style="font-size:10.5px">ZON 2s2p · 4× 200 Wp · 800 Wp</text>
 <path d="M1420 40V465H1097" class="p"/>
-<path d="M1400 125V286M1400 342V445H1097" class="n"/><rect x="1392" y="286" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 290L1404 310" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1401 305Q1404 300 1406 306" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1384" y="306" class="cb" style="font-size:9.5px" text-anchor="end">DC-scheider min</text>
-<rect x="1412" y="230" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/>
-<path d="M1416 234L1424 254" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1421 249Q1424 244 1426 250" stroke="#1d1d1b" stroke-width="1.2" fill="none"/>
-<text x="1432" y="246" class="cb" style="font-size:9.5px">DC-automaat</text>
+<path d="M1400 125V445H1097" class="n"/><path d="M1400 284H1420" stroke="#1d1d1b" stroke-width="1.2" stroke-dasharray="3 2"/><rect x="1394" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1400 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 304L1405 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1405 294Q1408 292 1409 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><rect x="1414" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1420 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1416 304L1425 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1425 294Q1428 292 1429 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1386" y="300" class="cb" style="font-size:9px" text-anchor="end">Schneider Electric Acti9</text><text x="1386" y="314" class="cb" style="font-size:9px" text-anchor="end">C60H-DC 2P 32A</text>
+
+
+
 <path d="M325 187V25H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
 <text x="600" y="18" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
 <rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
@@ -49,7 +49,7 @@
 <rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n"/>
-<path d="M280 640V434M280 406V230H300" class="p"/><rect x="272" y="406" width="16" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M276 410L284 430" stroke="#1d1d1b" stroke-width="1.6"/><path d="M281 425Q284 420 286 426" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="296" y="424" class="cb" style="font-size:9px">Aan/uit huishoudaccu</text>
+<path d="M280 640V434M280 406V230H300" class="p"/><rect x="274" y="406" width="12" height="28" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M280 428V421" stroke="#1d1d1b" stroke-width="1.4"/><path d="M276 421L285 412" stroke="#1d1d1b" stroke-width="1.6"/><path d="M285 412Q288 409 289 407" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="296" y="424" class="cb" style="font-size:9px">Aan/uit huishoudaccu</text>
 <path d="M400 195H430" class="n"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="296" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
 <path d="M328 230H338" class="p"/>
