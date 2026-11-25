@@ -50,7 +50,7 @@
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n"/>
 <path d="M280 640V230H300" class="p"/>
-<rect x="300" y="186" width="50" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:9.5px">Shunt 500A</text>
+<path d="M350 195H430" class="n"/><rect x="300" y="186" width="50" height="18" class="box" style="fill:#f4f7fb"/><text x="303" y="199" class="lb" style="font-size:8.5px">Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="296" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
 <path d="M328 230H338" class="p"/>
 <circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
@@ -60,9 +60,9 @@
 <rect x="780" y="170" width="350" height="160" class="fr"/><text x="788" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #2 · poort 5–8</text>
 <path d="M430 195H1100" class="n" style="stroke-width:5"/>
 <path d="M430 230H1130" class="p" style="stroke-width:6"/>
-<text x="860" y="216" class="cb" style="font-size:9.5px;fill:#1f6fd1">A↔B verbonden (kabel)</text>
-<path d="M1100 195H1130V262" class="n"/><path d="M1120 262H1140M1123 268H1137M1126 274H1134" stroke="#1d1d1b" stroke-width="2"/>
-<text x="1146" y="272" class="cb" style="font-size:9.5px">Earth point 762 (chassis)</text>
+
+<path d="M1100 195H1200V262" class="n"/><path d="M1180 262H1200M1183 268H1197M1186 274H1194" stroke="#1d1d1b" stroke-width="2"/>
+<text x="1206" y="272" class="cb" style="font-size:9.5px">Earth point 762 (chassis)</text>
 <path d="M440 230V330" class="p"/>
 <rect x="434" y="255" width="12" height="14" class="fz"/>
 <text x="449" y="266" class="lb" style="font-size:9.5px">200A*</text>
@@ -109,8 +109,8 @@
 <path d="M1060 330V430" class="p"/>
 <rect x="403" y="430" width="74" height="100" class="box"/><rect x="403" y="430" width="74" height="22" class="hd"/>
 <text x="408" y="445" class="ht" style="font-size:11px">Omvormer</text>
-<text x="408" y="468" class="bt" style="font-size:10px">±125–135A</text>
-<text x="408" y="482" class="bt" style="font-size:10px">24V→230V AC</text>
+<text x="408" y="468" class="bt" style="font-size:9.5px">MultiPlus-II</text><text x="408" y="480" class="bt" style="font-size:9px">24/3000/70-32</text><text x="408" y="492" class="bt" style="font-size:9px">230V GX</text><text x="408" y="506" class="bt" style="font-size:10px">±125–135A</text>
+
 <rect x="483" y="430" width="74" height="100" class="box"/><rect x="483" y="430" width="74" height="22" class="hd"/>
 <text x="488" y="445" class="ht" style="font-size:11px">Fusy Maxi 1</text>
 <text x="488" y="468" class="bt" style="font-size:10px">24V 201–218</text>
@@ -139,11 +139,11 @@
 <text x="1028" y="445" class="ht" style="font-size:11px">MPPT S40</text>
 <text x="1028" y="468" class="bt" style="font-size:10px">max 40A</text>
 <text x="1028" y="482" class="bt" style="font-size:10px">±28A/800Wp</text>
-<path d="M440 530V620" class="ac" marker-end="url(#arp)"/><text x="446" y="620" class="cb" style="fill:#7a4fb0">230V AC → blad 3</text>
+<path d="M440 530V620" class="ac" marker-end="url(#arp)"/><text x="446" y="642" class="cb" style="fill:#7a4fb0">230V AC → blad 3</text>
 <path d="M520 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M600 530V620" class="p" marker-end="url(#ar)"/>
 <path d="M680 530V620" class="p" marker-end="url(#ar)"/>
-<text x="520" y="636" class="cb">→ blad 2 (24V groepen)</text>
+<text x="520" y="656" class="cb">→ blad 2 (24V groepen)</text>
 <path d="M1490 600V500H1295V540" class="p"/>
 <rect x="1483" y="536" width="14" height="16" class="fz"/><text x="1400" y="548" class="lb" style="font-size:9.5px">F2 100A</text>
 <rect x="1250" y="540" width="90" height="60" class="box"/>
@@ -157,7 +157,7 @@
 <path d="M900 580V530" class="p"/><path d="M900 580H1250" class="p"/>
 <text x="1090" y="553" class="cb" style="font-size:9px">25 mm² · 3,5 m</text><text x="1000" y="594" class="cb" style="font-size:9px">25 mm² · 3,5 m</text>
 <rect x="1440" y="600" width="105" height="70" class="box"/><rect x="1440" y="600" width="105" height="22" class="hd"/>
-<text x="1445" y="615" class="ht" style="font-size:10.5px">Startaccu 12V · onder de vloer, bestuurderszijde</text><text x="1445" y="636" class="bt" style="font-size:9.5px">AGM 92Ah · 520A</text><text x="1445" y="650" class="bt" style="font-size:9.5px">J0B</text>
+<text x="1445" y="615" class="ht" style="font-size:10.5px">Startaccu 12V</text><text x="1445" y="636" class="bt" style="font-size:9px">AGM 92Ah · 520A · J0B</text><text x="1445" y="649" class="bt" style="font-size:9px">onder de vloer,</text><text x="1445" y="662" class="bt" style="font-size:9px">bestuurderszijde</text>
 <rect x="1240" y="640" width="90" height="80" class="box"/><rect x="1240" y="640" width="90" height="22" class="hd"/>
 <text x="1245" y="655" class="ht" style="font-size:10px">2e accu · 8FE</text><text x="1245" y="676" class="bt" style="font-size:9px">AGM 92 Ah</text><text x="1245" y="689" class="bt" style="font-size:9px">60A cont.</text><text x="1245" y="702" class="bt" style="font-size:9px">190A 15 min</text>
 <path d="M1330 690H1346" class="p"/><rect x="1346" y="682" width="12" height="16" class="fz"/><path d="M1358 690H1380" class="p"/>
