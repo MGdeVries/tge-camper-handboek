@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1070" role="img" aria-label="Blad 1 energie en laden: huishoudaccu links, Lynx A en B met poorten 1 tot 8, 12V voertuigdelen rechts.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1070" role="img" aria-label="Blad 1 energie en laden: woonaccu links onder, Lynx A en B met poorten 1 tot 8, zon 2s2p boven de Lynxen, 12V voertuigdelen rechts.">
 <rect width="100%" height="100%" fill="#fff"/><defs><style>.p{stroke:#d7262b;stroke-width:3.2;fill:none;stroke-linejoin:round}
 .n{stroke:#1d1d1b;stroke-width:3.2;fill:none;stroke-linejoin:round}
 .d{stroke:#1f6fd1;stroke-width:2;fill:none;stroke-dasharray:7 5}
@@ -11,135 +11,161 @@
 .cb{fill:#555;font:italic 400 10.5px 'Open Sans',Arial,sans-serif}
 .fz{fill:#fff;stroke:#1d1d1b;stroke-width:1.4}
 .fr{fill:#eef3fa;stroke:#1d1d1b;stroke-width:1.2}
+.pv{fill:#1b2f55;stroke:#1d1d1b}
 </style>
 <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1d1d1b"/></marker>
 <marker id="arb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f6fd1"/></marker>
 <marker id="arp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#7a4fb0"/></marker>
+<g id="pvp"><rect width="70" height="50" class="pv"/><path d="M0 17H70M0 33H70M14 0V50M28 0V50M42 0V50M56 0V50" stroke="#5f7fb8" stroke-width=".8"/></g>
 </defs>
-<text x="30" y="24" class="lb" style="font-size:14px">Blad 1 – Energie &amp; laden</text>
-<text x="30" y="40" class="cb">MAN TGE 3.180 4x4 · camper elektra · rev A · concept · lay-out volgens fysieke bus</text>
-<rect x="30" y="60" width="270" height="240" class="box"/><rect x="30" y="60" width="270" height="22" class="hd"/>
-<text x="37" y="75" class="ht">WOONACCU 24V · 8s LiFePO4</text>
-<text x="37" y="98" class="bt">8 × 3,2V 184Ah · ±4,7 kWh</text>
-<rect x="40" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="71" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="102" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="133" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="164" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="195" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="226" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="257" y="106" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<text x="37" y="170" class="bt">piekbelasting ±150A op 24V</text>
-<text x="37" y="186" class="cb">(omvormer voedt inductiekookplaat)</text>
-<rect x="40" y="200" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="47" y="218" class="lb">JK-B2A8S30P BMS</text><text x="47" y="234" class="bt">BT-only · bedraad gewenst</text>
-<text x="37" y="262" class="cb">F1 Class-T 250A · 184A continu cellen</text>
-<path d="M300 100H310" class="p"/>
-<rect x="310" y="92" width="35" height="16" class="fz"/><text x="312" y="84" class="lb" style="font-size:10px">F1 250A</text>
-<path d="M345 100H355" class="p"/>
-<rect x="355" y="92" width="45" height="16" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><text x="357" y="84" class="lb" style="font-size:10px">Q1 BEP</text><text x="355" y="126" class="cb">alleen plus · 400A</text>
-<path d="M60 300V960" class="n"/>
-<text x="66" y="330" class="cb">accu −</text>
-<rect x="410" y="56" width="450" height="58" class="fr"/><text x="418" y="70" class="lb" style="font-size:10.5px">Lynx A · poort 1–4 (links, bij de accu)</text>
-<rect x="900" y="56" width="400" height="58" class="fr"/><text x="908" y="70" class="lb" style="font-size:10.5px">Lynx B · poort 5–8</text>
-<path d="M300 100H860" class="p" style="stroke-width:6"/>
-<path d="M900 100H1300" class="p" style="stroke-width:6"/>
-<path d="M860 100H900" class="d" marker-end="url(#arb)"/>
-<text x="830" y="46" class="cb" style="fill:#1f6fd1">A↔B kabel (te bevestigen)</text>
-<path d="M470 100V170" class="p"/>
-<text x="474" y="166" class="lb" style="font-size:10px">A · 1</text>
-<rect x="463" y="127" width="14" height="16" class="fz"/><text x="481" y="139" class="lb" style="font-size:10px">200A*</text>
-<text x="480" y="150" class="cb" style="font-size:9.5px">50 mm²*</text>
-<path d="M580 100V170" class="p"/>
-<text x="584" y="166" class="lb" style="font-size:10px">A · 2</text>
-<rect x="573" y="127" width="14" height="16" class="fz"/><text x="591" y="139" class="lb" style="font-size:10px">100A</text>
-<text x="590" y="150" class="cb" style="font-size:9.5px">25 mm²</text>
-<path d="M690 100V170" class="p"/>
-<text x="694" y="166" class="lb" style="font-size:10px">A · 3</text>
-<rect x="683" y="127" width="14" height="16" class="fz"/><text x="701" y="139" class="lb" style="font-size:10px">100A</text>
-<text x="700" y="150" class="cb" style="font-size:9.5px">25 mm²</text>
-<path d="M800 100V170" class="p"/>
-<text x="804" y="166" class="lb" style="font-size:10px">A · 4</text>
-<rect x="793" y="127" width="14" height="16" class="fz"/><text x="811" y="139" class="lb" style="font-size:10px">40A (60A ctrl)</text>
-<text x="810" y="150" class="cb" style="font-size:9.5px">10 mm²</text>
-<path d="M910 100V170" class="p"/>
-<text x="914" y="166" class="lb" style="font-size:10px">B · 5</text>
-<text x="920" y="150" class="cb" style="font-size:9.5px">vrij / reserve</text>
-<path d="M1020 100V170" class="p"/>
-<text x="1024" y="166" class="lb" style="font-size:10px">B · 6</text>
-<rect x="1013" y="127" width="14" height="16" class="fz"/><text x="1031" y="139" class="lb" style="font-size:10px">40A</text>
-<text x="1030" y="150" class="cb" style="font-size:9.5px">6 mm²</text>
-<path d="M1130 100V170" class="p"/>
-<text x="1134" y="166" class="lb" style="font-size:10px">B · 7</text>
-<rect x="1123" y="127" width="14" height="16" class="fz"/><text x="1141" y="139" class="lb" style="font-size:10px">40A</text>
-<text x="1140" y="150" class="cb" style="font-size:9.5px">6 mm²</text>
-<path d="M1240 100V170" class="p"/>
-<text x="1244" y="166" class="lb" style="font-size:10px">B · 8</text>
-<text x="1250" y="150" class="cb" style="font-size:9.5px"></text>
-<rect x="420" y="170" width="100" height="100" class="box"/><rect x="420" y="170" width="100" height="22" class="hd"/>
-<text x="427" y="185" class="ht">Omvormer</text>
-<text x="427" y="210" class="bt">±125–135A cont.</text>
-<text x="427" y="226" class="bt">24V → 230V AC</text>
-<rect x="530" y="170" width="100" height="100" class="box"/><rect x="530" y="170" width="100" height="22" class="hd"/>
-<text x="537" y="185" class="ht">Fusy Maxi 1</text>
-<text x="537" y="210" class="bt">24V · 201–218</text>
-<text x="537" y="226" class="bt">max 100A</text>
-<rect x="640" y="170" width="100" height="100" class="box"/><rect x="640" y="170" width="100" height="22" class="hd"/>
-<text x="647" y="185" class="ht">Fusy Maxi 2</text>
-<text x="647" y="210" class="bt">24V · 401–418</text>
-<text x="647" y="226" class="bt">max 100A</text>
-<rect x="750" y="170" width="100" height="100" class="box"/><rect x="750" y="170" width="100" height="22" class="hd"/>
-<text x="757" y="185" class="ht">Fusy Mini</text>
-<text x="757" y="210" class="bt">24V · 501–506</text>
-<text x="757" y="226" class="bt">max 50A</text>
-<rect x="860" y="170" width="100" height="100" class="box"/><rect x="860" y="170" width="100" height="22" class="hd"/>
-<text x="867" y="185" class="ht">Reserve</text>
-<text x="867" y="210" class="bt">scheiding</text>
-<text x="867" y="226" class="bt">verbruikers/laders</text>
-<rect x="970" y="170" width="100" height="100" class="box"/><rect x="970" y="170" width="100" height="22" class="hd"/>
-<text x="977" y="185" class="ht">Orion XS #1</text>
-<text x="977" y="210" class="bt">12→24V</text>
-<text x="977" y="226" class="bt">±40A laden</text>
-<rect x="1080" y="170" width="100" height="100" class="box"/><rect x="1080" y="170" width="100" height="22" class="hd"/>
-<text x="1087" y="185" class="ht">Orion XS #2</text>
-<text x="1087" y="210" class="bt">12→24V</text>
-<text x="1087" y="226" class="bt">±40A laden</text>
-<rect x="1190" y="170" width="100" height="100" class="box"/><rect x="1190" y="170" width="100" height="22" class="hd"/>
-<text x="1197" y="185" class="ht">MPPT S40</text>
-<text x="1197" y="210" class="bt">max 40A · ±28A</text>
-<text x="1197" y="226" class="bt">zekering: nader te</text>
-<text x="1197" y="242" class="bt">bepalen (kabel)</text>
-<path d="M440 270V700" class="ac" marker-end="url(#arp)"/><text x="446" y="700" class="cb" style="fill:#7a4fb0">230V AC → blad 3</text>
-<path d="M550 270V700" class="p" marker-end="url(#ar)"/>
-<path d="M660 270V700" class="p" marker-end="url(#ar)"/>
-<path d="M770 270V700" class="p" marker-end="url(#ar)"/>
-<text x="556" y="716" class="cb">→ blad 2</text>
-<rect x="1330" y="130" width="150" height="90" class="box"/><rect x="1330" y="130" width="150" height="22" class="hd"/>
-<text x="1337" y="145" class="ht">ZON 4× 200 Wp</text><text x="1337" y="168" class="bt">2s2p · 800 Wp</text><text x="1337" y="184" class="bt">Voc 47V (koud ±53V)</text><text x="1337" y="200" class="bt">DC-scheider · 6 mm²</text>
-<path d="M1330 200H1290" class="p"/>
-<rect x="1340" y="262" width="140" height="44" class="box"/><rect x="1340" y="262" width="140" height="18" class="hd"/>
-<text x="1346" y="276" class="ht" style="font-size:11px">Blue Sea 6007</text><text x="1346" y="294" class="cb">UIT · 1 · 2 · 1+2 (B-stijl)</text>
-<path d="M1330 310V600" class="p"/>
-<rect x="1323" y="470" width="14" height="16" class="fz"/><text x="1345" y="482" class="lb" style="font-size:10px">F2 MEGA 100A</text>
-<text x="1345" y="496" class="cb">50 mm² · 1,1 m</text>
-<path d="M1330 340H1150V270" class="p"/>
-<path d="M1330 360H1020V270" class="p"/>
-<text x="1156" y="336" class="cb">25 mm² · 3,5 m</text><text x="1026" y="356" class="cb">25 mm² · 3,5 m</text>
-<rect x="1310" y="600" width="130" height="70" class="box"/><rect x="1310" y="600" width="130" height="22" class="hd"/>
-<text x="1317" y="616" class="ht">Startaccu 12V</text><text x="1317" y="638" class="bt">AGM 92Ah / 520A</text><text x="1317" y="654" class="bt">J0B · 8FE 2e accu</text>
-<path d="M1400 670V960" class="n"/>
-<text x="1346" y="690" class="cb" style="font-size:9.5px">accu −</text>
-<path d="M60 960H1420" class="n"/>
-<rect x="90" y="952" width="70" height="16" class="box" style="fill:#f4f7fb"/><text x="94" y="964" class="lb" style="font-size:9.5px">Shunt 500A</text>
-<text x="90" y="946" class="cb">min-rail (links)</text>
-<path d="M125 968V1010H1440V640H1430" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
-<text x="600" y="1004" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
-<rect x="960" y="740" width="230" height="70" class="box"/><rect x="960" y="740" width="230" height="22" class="hd"/>
-<text x="967" y="756" class="ht">Pekaway CORE PRO</text><text x="967" y="778" class="bt">stuurt Orions op motor-aan</text><text x="967" y="794" class="bt">leest shunt, MPPT, BMS</text>
-<text x="960" y="826" class="cb">RJ10-uitlezing Lynx: nog te bevestigen (blad 2 / componentenlijst)</text>
-<g transform="translate(30,1032)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
+<use href="#pvp" x="400" y="60"/>
+<use href="#pvp" x="480" y="60"/>
+<use href="#pvp" x="620" y="60"/>
+<use href="#pvp" x="700" y="60"/>
+<path d="M470 85H480" class="n"/>
+<path d="M690 85H700" class="n"/>
+<path d="M435 60V40H1210" class="p"/>
+<path d="M515 110V125H1190" class="n"/>
+<path d="M655 60V40" class="p"/>
+<path d="M735 110V125" class="n"/>
+<text x="400" y="128" class="cb" style="font-size:9.5px">string A</text><text x="620" y="128" class="cb" style="font-size:9.5px">string B</text>
+<text x="800" y="72" class="lb" style="font-size:11px">ZON 2s2p · 4× 200 Wp · 800 Wp</text><text x="800" y="88" class="cb">2 strings van 2 panelen in serie, parallel geschakeld</text>
+<path d="M1210 40V400H1142" class="p"/>
+<path d="M1190 125V350H1142" class="n"/>
+<circle cx="1210" cy="190" r="2.6" fill="#1d1d1b"/><circle cx="1210" cy="206" r="2.6" fill="#1d1d1b"/>
+<path d="M1210 190L1202 192" stroke="#1d1d1b" stroke-width="2.2"/>
+<text x="1216" y="200" class="cb" style="font-size:9.5px">DC-schei.</text>
+<path d="M325 187V25H1380V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
+<text x="560" y="18" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
+<rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
+<text x="36" y="655" class="ht">WOONACCU 24V · 8s LiFePO4</text>
+<text x="36" y="676" class="bt" style="font-size:10.5px">8 × 3,2V 184Ah · ±4,7 kWh</text>
+<rect x="38" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="69" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="100" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="131" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="162" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="193" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="224" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="255" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<text x="36" y="750" class="bt" style="font-size:10.5px">piekbelasting ±150A op 24V</text>
+<text x="36" y="765" class="cb">(omvormer voedt inductiekookplaat)</text>
+<rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
+<text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
+<path d="M260 640V195H300" stroke="#1d1d1b" stroke-width="3.2" fill="none"/>
+<path d="M280 640V230H300" class="p"/>
+<rect x="300" y="186" width="50" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:9.5px">Shunt 500A</text>
+<rect x="300" y="222" width="28" height="16" class="fz"/>
+<path d="M328 230H338" class="p"/>
+<text x="298" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
+<circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/>
+<path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
+<path d="M372 230H380" class="p"/>
+<text x="338" y="268" class="lb" style="font-size:9.5px">Q1 BEP</text>
+<rect x="380" y="170" width="380" height="160" class="fr"/><text x="388" y="184" class="lb" style="font-size:10.5px">Lynx A · poort 1–4 (links, bij de accu)</text>
+<rect x="780" y="170" width="380" height="160" class="fr"/><text x="788" y="184" class="lb" style="font-size:10.5px">Lynx B · poort 5–8</text>
+<path d="M390 195H1170" class="n" style="stroke-width:5"/>
+<path d="M390 230H760" class="p" style="stroke-width:6"/>
+<path d="M780 230H1160" class="p" style="stroke-width:6"/>
+<path d="M760 230H780" class="p" style="stroke-width:4"/>
+<path d="M760 195H780" class="n" style="stroke-width:4"/>
+<text x="746" y="250" class="cb" style="font-size:9.5px;fill:#1f6fd1">A↔B kabel</text>
+<path d="M1170 195H1180" class="n"/><path d="M1174 201H1186M1177 207H1183" stroke="#1d1d1b" stroke-width="2"/>
+<text x="1040" y="212" class="cb" style="font-size:9.5px">earth point 762</text>
+<path d="M440 230V330" class="p"/>
+<text x="444" y="262" class="lb" style="font-size:10px">A · 1</text>
+<rect x="433" y="277" width="14" height="16" class="fz"/><text x="451" y="289" class="lb" style="font-size:10px">200A*</text>
+<text x="450" y="306" class="cb" style="font-size:9.5px">50 mm²*</text>
+<path d="M530 230V330" class="p"/>
+<text x="534" y="262" class="lb" style="font-size:10px">A · 2</text>
+<rect x="523" y="277" width="14" height="16" class="fz"/><text x="541" y="289" class="lb" style="font-size:10px">100A</text>
+<text x="540" y="306" class="cb" style="font-size:9.5px">25 mm²</text>
+<path d="M620 230V330" class="p"/>
+<text x="624" y="262" class="lb" style="font-size:10px">A · 3</text>
+<rect x="613" y="277" width="14" height="16" class="fz"/><text x="631" y="289" class="lb" style="font-size:10px">100A</text>
+<text x="630" y="306" class="cb" style="font-size:9.5px">25 mm²</text>
+<path d="M710 230V330" class="p"/>
+<text x="714" y="262" class="lb" style="font-size:10px">A · 4</text>
+<rect x="703" y="277" width="14" height="16" class="fz"/><text x="721" y="289" class="lb" style="font-size:10px">40A (60A?)</text>
+<text x="720" y="306" class="cb" style="font-size:9.5px">10 mm²</text>
+<path d="M830 230V330" class="p"/>
+<text x="834" y="262" class="lb" style="font-size:10px">B · 5</text>
+<text x="840" y="306" class="cb" style="font-size:9.5px">vrij / reserve</text>
+<path d="M920 230V330" class="p"/>
+<text x="924" y="262" class="lb" style="font-size:10px">B · 6</text>
+<rect x="913" y="277" width="14" height="16" class="fz"/><text x="931" y="289" class="lb" style="font-size:10px">40A</text>
+<text x="930" y="306" class="cb" style="font-size:9.5px">6 mm²</text>
+<path d="M1010 230V330" class="p"/>
+<text x="1014" y="262" class="lb" style="font-size:10px">B · 7</text>
+<rect x="1003" y="277" width="14" height="16" class="fz"/><text x="1021" y="289" class="lb" style="font-size:10px">40A</text>
+<text x="1020" y="306" class="cb" style="font-size:9.5px">6 mm²</text>
+<path d="M1100 230V330" class="p"/>
+<text x="1104" y="262" class="lb" style="font-size:10px">B · 8</text>
+<text x="1110" y="306" class="cb" style="font-size:9.5px">nader te bepalen</text>
+<rect x="398" y="330" width="84" height="100" class="box"/><rect x="398" y="330" width="84" height="22" class="hd"/>
+<text x="404" y="345" class="ht">Omvormer</text>
+<text x="404" y="369" class="bt" style="font-size:10.5px">±125–135A</text>
+<text x="404" y="384" class="bt" style="font-size:10.5px">24V→230V</text>
+<rect x="488" y="330" width="84" height="100" class="box"/><rect x="488" y="330" width="84" height="22" class="hd"/>
+<text x="494" y="345" class="ht">Fusy Maxi 1</text>
+<text x="494" y="369" class="bt" style="font-size:10.5px">24V 201–218</text>
+<text x="494" y="384" class="bt" style="font-size:10.5px">max 100A</text>
+<rect x="578" y="330" width="84" height="100" class="box"/><rect x="578" y="330" width="84" height="22" class="hd"/>
+<text x="584" y="345" class="ht">Fusy Maxi 2</text>
+<text x="584" y="369" class="bt" style="font-size:10.5px">24V 401–418</text>
+<text x="584" y="384" class="bt" style="font-size:10.5px">max 100A</text>
+<rect x="668" y="330" width="84" height="100" class="box"/><rect x="668" y="330" width="84" height="22" class="hd"/>
+<text x="674" y="345" class="ht">Fusy Mini</text>
+<text x="674" y="369" class="bt" style="font-size:10.5px">24V 501–506</text>
+<text x="674" y="384" class="bt" style="font-size:10.5px">max 50A</text>
+<rect x="788" y="330" width="84" height="100" class="box"/><rect x="788" y="330" width="84" height="22" class="hd"/>
+<text x="794" y="345" class="ht">Reserve</text>
+<text x="794" y="369" class="bt" style="font-size:10.5px">scheiding</text>
+<text x="794" y="384" class="bt" style="font-size:10.5px">verbruikers</text>
+<rect x="878" y="330" width="84" height="100" class="box"/><rect x="878" y="330" width="84" height="22" class="hd"/>
+<text x="884" y="345" class="ht">Orion XS #1</text>
+<text x="884" y="369" class="bt" style="font-size:10.5px">12→24V</text>
+<text x="884" y="384" class="bt" style="font-size:10.5px">±40A laden</text>
+<rect x="968" y="330" width="84" height="100" class="box"/><rect x="968" y="330" width="84" height="22" class="hd"/>
+<text x="974" y="345" class="ht">Orion XS #2</text>
+<text x="974" y="369" class="bt" style="font-size:10.5px">12→24V</text>
+<text x="974" y="384" class="bt" style="font-size:10.5px">±40A laden</text>
+<rect x="1058" y="330" width="84" height="100" class="box"/><rect x="1058" y="330" width="84" height="22" class="hd"/>
+<text x="1064" y="345" class="ht">MPPT S40</text>
+<text x="1064" y="369" class="bt" style="font-size:10.5px">max 40A</text>
+<text x="1064" y="384" class="bt" style="font-size:10.5px">±28A/800Wp</text>
+<path d="M440 430V600" class="ac" marker-end="url(#arp)"/><text x="446" y="600" class="cb" style="fill:#7a4fb0">230V AC → blad 3</text>
+<path d="M508 430V600" class="p" marker-end="url(#ar)"/>
+<path d="M598 430V600" class="p" marker-end="url(#ar)"/>
+<path d="M688 430V600" class="p" marker-end="url(#ar)"/>
+<text x="508" y="616" class="cb">→ blad 2 (24V groepen)</text>
+<path d="M1300 600V332" class="p"/>
+<rect x="1262" y="296" width="76" height="34" class="box"/>
+<circle cx="1276" cy="330" r="2.6" fill="#1d1d1b"/><circle cx="1324" cy="322" r="2.6" fill="#1d1d1b"/>
+<path d="M1276 330L1316 308" stroke="#1d1d1b" stroke-width="2.2"/>
+<text x="1266" y="346" class="lb" style="font-size:9.5px">Blue Sea 6007</text>
+<text x="1266" y="358" class="cb" style="font-size:9px">UIT·1·2·1+2</text>
+<rect x="1293" y="372" width="14" height="16" class="fz"/><text x="1312" y="384" class="lb" style="font-size:10px">F2 MEGA 100A</text>
+<text x="1312" y="398" class="cb" style="font-size:9.5px">50 mm² · 1,1 m</text>
+<path d="M1300 450H1010V430" class="p"/>
+<path d="M1300 470H920V430" class="p"/>
+<text x="1040" y="446" class="cb" style="font-size:9.5px">25 mm² · 3,5 m</text><text x="960" y="486" class="cb" style="font-size:9.5px">25 mm² · 3,5 m</text>
+<rect x="1250" y="600" width="130" height="70" class="box"/><rect x="1250" y="600" width="130" height="22" class="hd"/>
+<text x="1256" y="615" class="ht">Startaccu 12V</text><text x="1256" y="636" class="bt" style="font-size:10.5px">AGM 92Ah / 520A · J0B</text><text x="1256" y="652" class="bt" style="font-size:10.5px">8FE = 2e accu (opbouw)</text>
+<path d="M1340 670V740" class="n"/><text x="1346" y="700" class="cb" style="font-size:9.5px">chassis</text>
+<path d="M1340 740V752" class="n"/><path d="M1328 752H1352M1332 758H1348M1336 764H1344" stroke="#1d1d1b" stroke-width="2"/>
+<rect x="1410" y="600" width="80" height="70" class="box"/><rect x="1410" y="600" width="80" height="22" class="hd"/>
+<text x="1416" y="615" class="ht">Alternator</text>
+<text x="1416" y="639" class="bt" style="font-size:10.5px">230A · 9G0</text>
+<text x="1416" y="654" class="bt" style="font-size:10.5px">PR NY4</text>
+<path d="M1410 640H1380" class="p"/>
+<rect x="960" y="720" width="230" height="70" class="box"/><rect x="960" y="720" width="230" height="22" class="hd"/>
+<text x="966" y="736" class="ht">Pekaway CORE PRO</text><text x="966" y="758" class="bt" style="font-size:10.5px">stuurt Orions op motor-aan</text><text x="966" y="774" class="bt" style="font-size:10.5px">leest shunt, MPPT, BMS</text>
+<text x="960" y="806" class="cb" style="font-size:9.5px">RJ10-uitlezing Lynx: nog te bevestigen</text>
+<g transform="translate(30,1040)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
 <path d="M140 8H176" class="n"/><text x="184" y="12" class="bt">− min</text>
 <path d="M260 8H296" class="ac"/><text x="304" y="12" class="bt">230V AC</text>
-<path d="M380 8H416" class="d"/><text x="424" y="12" class="bt">data (later)</text>
+<path d="M360 8H396" stroke="#7a4fb0" stroke-width="1.8"/><text x="404" y="12" class="bt">meting 2,5 mm²</text>
 <rect x="520" y="1" width="30" height="14" class="fz"/><text x="558" y="12" class="bt">zekering</text>
-<text x="630" y="12" class="cb">Min-verbindingen per apparaat zijn voor de leesbaarheid weggelaten; alle − gaat naar de min-rail. Kabeldoorsneden voorlopig, na meting narekenen.</text></g>
+<text x="640" y="12" class="cb">Min per apparaat weggelaten. Kabels voorlopig, na meting narekenen.</text></g>
 </svg>

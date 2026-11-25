@@ -1,19 +1,19 @@
 # Vloer (zone Z12)
 
-De vloer is een belangrijk onderdeel van de ombouw. Er lopen kabels en vloerverwarming door, en het hele interieur wordt eraan vastgezet. Hieronder de opbouw van onder naar boven.
+De vloer is een belangrijk onderdeel van de ombouw. Er lopen kabels en vloerverwarming door, en het hele interieur wordt eraan vastgezet. Hieronder de opbouw van boven naar onder: laag 8 (zeil) bovenop, laag 1 (wagenbodem) onderop.
 
 ## Opbouw
 
 | Laag | Wat | Functie |
 |---|---|---|
-| 1 | **Stalen wagenbodem** (geprofileerd, af fabriek) | draagvlak |
-| 2 | **Slagvaste grijze PVC-installatiebuis 16 mm** (waarschijnlijk) langs de rand van de bus, gelijmd met dezelfde lijm als de XPS. **Ribbelbuis** alleen voor de bochten | kabelgoten voor de voedingskabels van de 2× Orion XS 1400 (25 mm² vanaf de Blue Sea 6007), de Ablemail-druppellader en een 2,5 mm²-meetdraad van de shunt naar de pluspool van de startaccu (spanningsmeting) |
-| 3 | **Bo-dapter-isolatieplaten** (camper-adapter.de), in een **dikkere versie op maat**. Ter plekke uitgefreesd, zodat de elektrabuizen in de dalen van de ribbelvloer liggen | isolatie en egale ondergrond. Dikker dan standaard, omdat de vloerverwarmingsbuis erdoor loopt |
-| 4 | **Vloerverwarmingsbuis** in de isolatie, verhoogd in omega-profielen boven de heuvels van de ribbelvloer (betere warmteoverdracht naar de houten toplaag, kruist de elektra niet). Waarschijnlijk 16 mm buitendiameter, nog niet besloten | koelvloeistof uit het Baltica/Flow 5D-circuit |
-| 5 | **Dunne laag plywood** | dempt de hoge temperatuur van de koelvloeistof naar de voeten en verdeelt de warmte; ondergrond voor de stalen platen |
-| 6 | **Stalen platen met blindklinkmoeren** (plaatselijk, onder de houten toplaag) | vaste bevestigingspunten voor het interieur (meubels, stoelen, bedden) |
-| 7 | **Houten toplaag** | dragende vloer |
 | 8 | **Antislip-linoleum / zeil** | slijtlaag, waterdicht en makkelijk schoon te houden |
+| 7 | **Houten toplaag** | dragende vloer |
+| 6 | **Stalen platen met blindklinkmoeren** (plaatselijk, onder de houten toplaag) | vaste bevestigingspunten voor het interieur (meubels, stoelen, bedden) |
+| 5 | **Dunne laag plywood** | dempt de hoge temperatuur van de koelvloeistof naar de voeten en verdeelt de warmte; ondergrond voor de stalen platen |
+| 4 | **Vloerverwarmingsbuis** in de isolatie, verhoogd in omega-profielen boven de heuvels van de ribbelvloer (betere warmteoverdracht naar de houten toplaag, kruist de elektra niet). Waarschijnlijk 16 mm buitendiameter, nog niet besloten | koelvloeistof uit het Baltica/Flow 5D-circuit |
+| 3 | **Bo-dapter-isolatieplaten** (camper-adapter.de), in een **dikkere versie op maat**. Ter plekke uitgefreesd, zodat de elektrabuizen in de dalen van de ribbelvloer liggen | isolatie en egale ondergrond. Dikker dan standaard, omdat de vloerverwarmingsbuis erdoor loopt |
+| 2 | **Slagvaste grijze PVC-installatiebuis 16 mm** (waarschijnlijk) langs de rand van de bus, gelijmd met dezelfde lijm als de XPS. **Ribbelbuis** alleen voor de bochten | kabelgoten voor de voedingskabels van de 2× Orion XS 1400 (25 mm² vanaf de Blue Sea 6007), de Ablemail-druppellader en een 2,5 mm²-meetdraad van de shunt naar de pluspool van de startaccu (spanningsmeting) |
+| 1 | **Stalen wagenbodem** (geprofileerd, af fabriek) | draagvlak |
 
 ## Bo-dapter (standaardversie, ter referentie)
 
