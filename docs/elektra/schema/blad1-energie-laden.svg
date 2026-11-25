@@ -56,8 +56,8 @@
 <circle cx="338" cy="230" r="2.6" fill="#1d1d1b"/><circle cx="372" cy="230" r="2.6" fill="#1d1d1b"/><path d="M338 230L364 216" stroke="#1d1d1b" stroke-width="2.2"/>
 <path d="M372 230H430" class="p"/>
 <text x="336" y="268" class="lb" style="font-size:9.5px">Q1 BEP</text>
-<rect x="430" y="170" width="350" height="160" class="fr"/><text x="438" y="184" class="lb" style="font-size:10.5px">Lynx A · poort 1–4 (links, bij de accu)</text>
-<rect x="780" y="170" width="350" height="160" class="fr"/><text x="788" y="184" class="lb" style="font-size:10.5px">Lynx B · poort 5–8</text>
+<rect x="430" y="170" width="350" height="160" class="fr"/><text x="438" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #1 · poort 1–4 (links, bij de accu)</text>
+<rect x="780" y="170" width="350" height="160" class="fr"/><text x="788" y="184" class="lb" style="font-size:10.5px">Lynx Distributor M10 #2 · poort 5–8</text>
 <path d="M430 195H1100" class="n" style="stroke-width:5"/>
 <path d="M430 230H1130" class="p" style="stroke-width:6"/>
 <text x="860" y="216" class="cb" style="font-size:9.5px;fill:#1f6fd1">A↔B verbonden (kabel)</text>
@@ -94,13 +94,13 @@
 <path d="M900 230V330" class="p"/>
 <rect x="894" y="255" width="12" height="14" class="fz"/>
 <text x="909" y="266" class="lb" style="font-size:9.5px">40A</text>
-<text x="909" y="282" class="cb" style="font-size:9px">6 mm²</text>
+<text x="909" y="282" class="cb" style="font-size:9px">10 mm²</text>
 <text x="909" y="300" class="lb" style="font-size:9.5px">B · 6</text>
 <path d="M900 330V430" class="p"/>
 <path d="M980 230V330" class="p"/>
 <rect x="974" y="255" width="12" height="14" class="fz"/>
 <text x="989" y="266" class="lb" style="font-size:9.5px">40A</text>
-<text x="989" y="282" class="cb" style="font-size:9px">6 mm²</text>
+<text x="989" y="282" class="cb" style="font-size:9px">10 mm²</text>
 <text x="989" y="300" class="lb" style="font-size:9.5px">B · 7</text>
 <path d="M980 330V430" class="p"/>
 <path d="M1060 230V330" class="p"/>
@@ -157,7 +157,7 @@
 <path d="M900 580V530" class="p"/><path d="M900 580H1250" class="p"/>
 <text x="1090" y="553" class="cb" style="font-size:9px">25 mm² · 3,5 m</text><text x="1000" y="594" class="cb" style="font-size:9px">25 mm² · 3,5 m</text>
 <rect x="1440" y="600" width="105" height="70" class="box"/><rect x="1440" y="600" width="105" height="22" class="hd"/>
-<text x="1445" y="615" class="ht" style="font-size:10.5px">Startaccu 12V</text><text x="1445" y="636" class="bt" style="font-size:9.5px">AGM 92Ah · 520A</text><text x="1445" y="650" class="bt" style="font-size:9.5px">J0B</text>
+<text x="1445" y="615" class="ht" style="font-size:10.5px">Startaccu 12V · onder de vloer, bestuurderszijde</text><text x="1445" y="636" class="bt" style="font-size:9.5px">AGM 92Ah · 520A</text><text x="1445" y="650" class="bt" style="font-size:9.5px">J0B</text>
 <rect x="1240" y="640" width="90" height="80" class="box"/><rect x="1240" y="640" width="90" height="22" class="hd"/>
 <text x="1245" y="655" class="ht" style="font-size:10px">2e accu · 8FE</text><text x="1245" y="676" class="bt" style="font-size:9px">AGM 92 Ah</text><text x="1245" y="689" class="bt" style="font-size:9px">60A cont.</text><text x="1245" y="702" class="bt" style="font-size:9px">190A 15 min</text>
 <path d="M1330 690H1346" class="p"/><rect x="1346" y="682" width="12" height="16" class="fz"/><path d="M1358 690H1380" class="p"/>
