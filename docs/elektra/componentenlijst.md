@@ -45,6 +45,19 @@ Poortnummering doorlopend over de twee Lynx-rails: Lynx A = poort 1–4 (links, 
 - Piekbelasting huisaccu: ±150 A op 24V, wanneer de omvormer de inductiekookplaat voedt. F1 Class-T 250 A en 184 A continu van de cellen blijven ongewijzigd.
 - Zekeringen waarvan de kabel nog niet vastligt: nader te bepalen na kabellengte en -doorsnede.
 
+### DIP-switches en fuse-uitlezing (Lynx)
+
+Alleen nodig als de zekeringstatus via de RJ10 wordt uitgelezen. Volgens de Victron-installatiehandleiding (Lynx Distributor, hoofdstuk 6):
+
+| Lynx | Poorten | DIP 1 | DIP 2 |
+|---|---|---|---|
+| A (links, bij de accu) | 1–4 | OFF | OFF |
+| B (rechts) | 5–8 | ON | OFF |
+
+- De RJ10-kabel voedt de Lynx Distributor en voert de zekeringstatus alleen af naar een **Lynx Smart BMS** (vanaf serienummer HQ1909). Een **Lynx Shunt VE.Can** geeft de zekeringstatus niet door.
+- De Victron-documentatie noemt geen directe uitlezing door een Pekaway CORE PRO. Dat is nog niet bevestigd. Opties: (1) Lynx Smart BMS + GX-apparaat (VE.Can) + Node-RED; (2) zelf het RJ10-signaal uitlezen op een ingang van de CORE PRO, met het risico erbij. Nog voor te leggen aan Melvin, en de RJ10-verbinding nog niet tekenen.
+- Let op: de Lynx Distributor heeft voor de LEDs 5 V nodig via de RJ10-kabel; zonder Smart BMS of Shunt werken de zekeringlampjes niet.
+
 \* Nog controleren in de handleiding van het exacte omvormermodel. Alle kabeldoorsneden zijn voorlopig en gaan uit van korte lengtes. Na het meten narekenen.
 
 ## Min / chassis
