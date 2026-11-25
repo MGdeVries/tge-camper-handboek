@@ -10,7 +10,7 @@ Hoe het 24V-huishoudsysteem volgens de VW-opbouwrichtlijn op de TGE wordt aanges
 | PR | Wat | Belangrijk voor de ombouw |
 |---|---|---|
 | J0B | startaccu AGM 92 Ah / 520 A | alleen voor het voertuig |
-| 8FE | 2e accu AGM 92 Ah, scheidingsrelais, bewaakt door het KFG. Zit in de motorruimte aan bestuurderszijde, achter de koplamp. | het officiële aftakpunt voor opbouw-verbruikers; max. 60 A continu, 190 A kort |
+| 8FE | 2e accu AGM 92 Ah, scheidingsrelais, bewaakt door het KFG. Zit in de motorruimte aan bestuurderszijde, achter de koplamp. | voertuig-fabrieksuitrusting (niet voor de opbouw); max. 60 A continu, 190 A kort |
 | 9G0 / NY4 | dynamo 230 A (14 V) | slimme dynamo met start-stop en remenergieterugwinning (7L6) |
 | IS3 | klemmenstrook + KFG met opbouwerprogrammering + telematica | motor-aan-signaal en voertuigdata (CAN) voor de Pekaway |
 | 9BA | geen accuhoofdschakelaar | |
@@ -78,8 +78,8 @@ Varianten 140 / 180 / **230 A** (9G0). Een extra of grotere dynamo alleen als VW
 
 | # | Ons ontwerp (blad 1) | Richtlijn | Status / actie |
 |---|---|---|---|
-| 1 | Orions gevoed vanaf de **startaccu** via MEGA 100A en Blue Sea 6007 | Opbouw hoort op de 2e accu (8FE). Bij lithium: het scheidingsrelais vervangen door de DC/DC-lader. | ⚠ **Te bespreken.** Voeding van de Orions verplaatsen naar de 8FE-kant, of de dealer laten bevestigen dat aftakken vanaf de startaccu met O1A-codering is toegestaan. |
-| 2 | 2 Orions samen ≈80 A uit de 12V-kant | 8FE: max. 60 A continu, 190 A max. 15 min | ⚠ Als de Orions op de 8FE-uitgang komen: samen begrenzen tot **≤ 60 A** (bijv. 2× 30 A ingang ≈ 2× 16 A uit op 24V), of 8FH (200 A) laten beoordelen. |
+| 1 | Orions gevoed vanaf de **startaccu** via MEGA 100A en Blue Sea 6007 | De 2e accu (8FE) is voertuig-fabrieksuitrusting en heeft niets met de opbouw te maken. De Orions blijven op de startaccu. | ⚠ Te bevestigen: dealer laat weten of aftakken vanaf de startaccu met O1A-codering is toegestaan. |
+| 2 | 2 Orions samen ≈80 A uit de 12V-kant | Startaccu: 520 A (J0B), dus ruim voldoende | ⚠ Te controleren: de startaccu is de vaste voedingsbron voor de Orions. |
 | 3 | Motor-aan via "CAN-bus / KFG" | CAN-bus uitlezen verboden; via KFG wel | ✅ Via een KFG-uitgang "motor draait" (programmeren) of klem 15 op de klemmenstrook, naar de Orion remote-ingangen en de CORE PRO. |
 | 4 | Pekaway CAN-integratie | alleen via KFG-interface (CiA 447 / J1939 / telematica) | ⬜ Uitzoeken welke berichten het KFG levert en of de CORE PRO J1939/FMS kan lezen. |
 | 5 | Lynx-min 50 mm² naar Earth point 762 (massa 24V/230V, linker langsligger achter) | alleen VW-massapunten, max. 4 kabelschoenen | ◐ Earth point 762 (9 Nm), zie [Massapunten](massapunten.md). Studmaat en vrije plek ter plekke controleren. |
