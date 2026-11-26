@@ -26,8 +26,8 @@
 <path d="M1235 60V40" class="p"/><path d="M1315 110V125" class="n"/>
 <text x="1432" y="52" class="cb" style="font-size:8.5px">Craig 200 Wp × 4</text><text x="1432" y="64" class="cb" style="font-size:8.5px">2s2p · 800 Wp</text><text x="1432" y="76" class="cb" style="font-size:8.5px">Per paneel (fabrikant):</text><text x="1432" y="88" class="cb" style="font-size:8.5px">Voc 23,6 V</text><text x="1432" y="100" class="cb" style="font-size:8.5px">Isc 11,5 A</text><text x="1432" y="112" class="cb" style="font-size:8.5px">Vmp 19,5 V</text><text x="1432" y="124" class="cb" style="font-size:8.5px">Imp 10,8 A</text><text x="1432" y="136" class="cb" style="font-size:8.5px">Berekend (array):</text><text x="1432" y="148" class="cb" style="font-size:8.5px">Voc 47 V (koud ≈ 53 V)</text><text x="1432" y="160" class="cb" style="font-size:8.5px">Isc 23 A</text><text x="1040" y="30" class="cb" style="font-size:9.5px">string A (2 in serie)</text><text x="1200" y="30" class="cb" style="font-size:9.5px">string B (2 in serie)</text>
 <text x="1040" y="16" class="lb" style="font-size:10.5px">ZON 2s2p · 4× 200 Wp · 800 Wp</text>
-<path d="M1420 40V465H1097" class="p"/><text x="1180" y="480" class="cb" style="font-size:9px">6m, 6mm²</text>
-<path d="M1400 125V445H1097" class="n"/><text x="1180" y="436" class="cb" style="font-size:9px">6m, 6mm²</text><path d="M1400 284H1420" stroke="#1d1d1b" stroke-width="1.2" stroke-dasharray="3 2"/><rect x="1394" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1400 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 304L1405 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1405 294Q1408 292 1409 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><rect x="1414" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1420 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1416 304L1425 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1425 294Q1428 292 1429 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1386" y="300" class="cb" style="font-size:9px" text-anchor="end">Schneider Electric Acti9</text><text x="1386" y="314" class="cb" style="font-size:9px" text-anchor="end">C60H-DC 2P 32A</text>
+<path d="M1420 40V465H1097" class="p"/><text x="1180" y="480" class="cb" style="font-size:9px">600cm, 6mm²</text>
+<path d="M1400 125V445H1097" class="n"/><text x="1180" y="436" class="cb" style="font-size:9px">600cm, 6mm²</text><path d="M1400 284H1420" stroke="#1d1d1b" stroke-width="1.2" stroke-dasharray="3 2"/><rect x="1394" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1400 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1396 304L1405 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1405 294Q1408 292 1409 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><rect x="1414" y="288" width="12" height="30" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1420 312V304" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1416 304L1425 294" stroke="#1d1d1b" stroke-width="1.6"/><path d="M1425 294Q1428 292 1429 290" stroke="#1d1d1b" stroke-width="1.2" fill="none"/><text x="1386" y="300" class="cb" style="font-size:9px" text-anchor="end">Schneider Electric Acti9</text><text x="1386" y="314" class="cb" style="font-size:9px" text-anchor="end">C60H-DC 2P 32A</text>
 
 
 
@@ -49,7 +49,7 @@
 <rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n"/>
-<path d="M280 640V230H300" class="p"/>
+<path d="M280 640V230H300" class="p"/><text x="288" y="540" class="cb" style="font-size:9px">150cm, 70mm²</text>
 <path d="M400 195H430" class="n"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="286" y="252" class="lb" style="font-size:9.5px">F1 250A</text>
 <path d="M328 230H346" class="p"/>
@@ -61,30 +61,30 @@
 <path d="M430 195H1100" class="n" style="stroke-width:5"/>
 <path d="M430 230H1130" class="p" style="stroke-width:6"/>
 
-<path d="M1100 195H1190V262" class="n"/><path d="M1180 262H1200M1183 268H1197M1186 274H1194" stroke="#1d1d1b" stroke-width="2"/>
+<path d="M1100 195H1190V262" class="n"/><text x="1196" y="232" class="cb" style="font-size:9px">150cm, 50mm²</text><path d="M1180 262H1200M1183 268H1197M1186 274H1194" stroke="#1d1d1b" stroke-width="2"/>
 <text x="1206" y="272" class="cb" style="font-size:9.5px">Earth point 762 (chassis)</text>
 <path d="M440 230V330" class="p"/>
 <rect x="434" y="255" width="12" height="14" class="fz"/>
 <text x="449" y="266" class="lb" style="font-size:9.5px">200A*</text>
-<text x="449" y="282" class="cb" style="font-size:9px">50 mm²*</text>
+
 <text x="449" y="300" class="lb" style="font-size:9.5px">A · 1</text>
 <path d="M440 330V430" class="p"/>
 <path d="M520 230V330" class="p"/>
 <rect x="514" y="255" width="12" height="14" class="fz"/>
 <text x="529" y="266" class="lb" style="font-size:9.5px">100A</text>
-<text x="529" y="282" class="cb" style="font-size:9px">25 mm²</text>
+
 <text x="529" y="300" class="lb" style="font-size:9.5px">A · 2</text>
 <path d="M520 330V430" class="p"/>
 <path d="M600 230V330" class="p"/>
 <rect x="594" y="255" width="12" height="14" class="fz"/>
 <text x="609" y="266" class="lb" style="font-size:9.5px">100A</text>
-<text x="609" y="282" class="cb" style="font-size:9px">25 mm²</text>
+
 <text x="609" y="300" class="lb" style="font-size:9.5px">A · 3</text>
 <path d="M600 330V430" class="p"/>
 <path d="M680 230V330" class="p"/>
 <rect x="674" y="255" width="12" height="14" class="fz"/>
 <text x="689" y="266" class="lb" style="font-size:9.5px">40A (60A?)</text>
-<text x="689" y="282" class="cb" style="font-size:9px">10 mm²</text>
+
 <text x="689" y="300" class="lb" style="font-size:9.5px">A · 4</text>
 <path d="M680 330V430" class="p"/>
 <path d="M820 230V330" class="p"/>
@@ -94,13 +94,13 @@
 <path d="M900 230V330" class="p"/>
 <rect x="894" y="255" width="12" height="14" class="fz"/>
 <text x="909" y="266" class="lb" style="font-size:9.5px">40A</text>
-<text x="909" y="282" class="cb" style="font-size:9px">10 mm²</text>
+
 <text x="909" y="300" class="lb" style="font-size:9.5px">B · 6</text>
 <path d="M900 330V430" class="p"/>
 <path d="M980 230V330" class="p"/>
 <rect x="974" y="255" width="12" height="14" class="fz"/>
 <text x="989" y="266" class="lb" style="font-size:9.5px">40A</text>
-<text x="989" y="282" class="cb" style="font-size:9px">10 mm²</text>
+
 <text x="989" y="300" class="lb" style="font-size:9.5px">B · 7</text>
 <path d="M980 330V430" class="p"/>
 <path d="M1060 230V330" class="p"/>
@@ -139,13 +139,13 @@
 
 
 
-<path d="M440 530V620" class="ac" marker-end="url(#arp)"/><text x="440" y="642" class="cb" text-anchor="middle" style="fill:#7a4fb0">230V AC → blad 3</text>
-<path d="M520 530V620" class="p" marker-end="url(#ar)"/>
-<path d="M600 530V620" class="p" marker-end="url(#ar)"/>
-<path d="M680 530V620" class="p" marker-end="url(#ar)"/>
-<text x="600" y="642" class="cb" text-anchor="middle">→ blad 2 (24V groepen)</text>
-<path d="M1450 600V590H1340" class="p"/>
-<rect x="1383" y="582" width="14" height="16" class="fz"/><text x="1372" y="614" class="lb" style="font-size:9.5px">F2 100A</text>
+<path d="M440 530V640" class="ac" marker-end="url(#arp)"/>
+<path d="M520 530V640" class="p" marker-end="url(#ar)"/>
+<path d="M600 530V640" class="p" marker-end="url(#ar)"/>
+<path d="M680 530V640" class="p" marker-end="url(#ar)"/>
+
+<path d="M1450 600V570H1340" class="p"/>
+<rect x="1383" y="562" width="14" height="16" class="fz"/><text x="1372" y="556" class="lb" style="font-size:9.5px">F2 100A</text><text x="1352" y="590" class="cb" style="font-size:9px">150cm, 50mm²</text>
 <rect x="1250" y="540" width="90" height="60" class="box"/>
 <circle cx="1295" cy="570" r="13" fill="#fff" stroke="#1d1d1b" stroke-width="1.2"/>
 <circle cx="1295" cy="570" r="2.4" fill="#1d1d1b"/><path d="M1295 570L1283 562" stroke="#1d1d1b" stroke-width="2"/>
@@ -155,22 +155,22 @@
 <path d="M1250 580H1282" class="p"/>
 <path d="M980 560V530" class="p"/><path d="M980 560H1250" class="p"/>
 <path d="M900 580V530" class="p"/><path d="M900 580H1250" class="p"/>
-<text x="1090" y="553" class="cb" style="font-size:9px">25 mm² · 3,5 m</text><text x="1000" y="594" class="cb" style="font-size:9px">25 mm² · 3,5 m</text>
-<rect x="1440" y="600" width="105" height="70" class="box"/><rect x="1440" y="600" width="105" height="22" class="hd"/>
-<text x="1445" y="615" class="ht" style="font-size:10.5px">Startaccu 12V</text><text x="1445" y="636" class="bt" style="font-size:9px">AGM 92Ah · 520A · J0B</text><text x="1445" y="649" class="bt" style="font-size:9px">onder de vloer,</text><text x="1445" y="662" class="bt" style="font-size:9px">bestuurderszijde</text>
-<rect x="1240" y="640" width="90" height="80" class="box"/><rect x="1240" y="640" width="90" height="22" class="hd"/>
-<text x="1245" y="655" class="ht" style="font-size:10px">2e accu · 8FE</text><text x="1245" y="676" class="bt" style="font-size:9px">AGM 92 Ah</text><text x="1245" y="689" class="bt" style="font-size:9px">60A cont.</text><text x="1245" y="702" class="bt" style="font-size:9px">190A 15 min</text>
+<text x="1090" y="553" class="cb" style="font-size:9px">350cm, 25mm²</text><text x="1000" y="594" class="cb" style="font-size:9px">350cm, 25mm²</text>
+
+
+
+
 <path d="M1330 690H1346" class="p"/><rect x="1346" y="682" width="12" height="16" class="fz"/><path d="M1358 690H1380" class="p"/>
 <text x="1346" y="714" class="cb" style="font-size:8.5px">scheidingsrelais</text>
 <path d="M1380 690H1452V670" class="p"/>
 <path d="M1466 670V706" class="n"/><path d="M1454 706H1478M1458 712H1474M1462 718H1470" stroke="#1d1d1b" stroke-width="2"/>
-<rect x="1440" y="740" width="105" height="60" class="box"/><rect x="1440" y="740" width="105" height="22" class="hd"/>
-<text x="1445" y="755" class="ht" style="font-size:11px">Alternator</text>
-<text x="1445" y="778" class="bt" style="font-size:10px">230A · PR 9G0</text>
-<text x="1445" y="792" class="bt" style="font-size:10px">NY4 verh. capac.</text>
-<path d="M1500 740V670" class="p"/>
-<rect x="860" y="740" width="230" height="70" class="box"/><rect x="860" y="740" width="230" height="22" class="hd"/>
-<text x="866" y="756" class="ht">Pekaway CORE PRO</text><text x="866" y="778" class="bt" style="font-size:10.5px">stuurt Orions op motor-aan</text><text x="866" y="794" class="bt" style="font-size:10.5px">leest shunt, MPPT, BMS</text>
+
+
+
+
+<path d="M1500 740V670" class="p"/><text x="1494" y="728" text-anchor="end" class="cb" style="font-size:9px">150cm, 50mm²</text>
+
+
 <text x="975" y="826" class="cb" text-anchor="middle" style="font-size:9.5px">RJ10-uitlezing Lynx: nog te bevestigen</text>
 <g transform="translate(30,1040)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
 <path d="M140 8H176" class="n"/><text x="184" y="12" class="bt">− min</text>
@@ -178,4 +178,4 @@
 <path d="M360 8H396" stroke="#7a4fb0" stroke-width="1.8"/><text x="404" y="12" class="bt">meting 2,5 mm²</text>
 <rect x="520" y="1" width="30" height="14" class="fz"/><text x="558" y="12" class="bt">zekering</text>
 <text x="640" y="12" class="cb">Min per apparaat weggelaten. Kabels voorlopig, na meting narekenen. 2e accu (8FE): voertuig-fabrieksuitrusting, niet voor de opbouw.</text></g>
-</g><rect x="403" y="430" width="74" height="100" class="box"/><rect x="403" y="430" width="74" height="30" class="hd"/><text x="408" y="449" class="ht" style="font-size:11px">Omvormer</text><text x="408" y="472" class="bt" style="font-size:8.5px">Victron</text><text x="408" y="482" class="bt" style="font-size:8.5px">MultiPlus-II</text><text x="408" y="492" class="bt" style="font-size:8.5px">24/3000/70-32</text><text x="408" y="502" class="bt" style="font-size:8.5px">230V GX</text><text x="408" y="512" class="bt" style="font-size:8.5px">Max ±135A</text><rect x="483" y="430" width="74" height="100" class="box"/><rect x="483" y="430" width="74" height="30" class="hd"/><text x="488" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="488" y="454" class="ht" style="font-size:9.5px">1</text><text x="488" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="488" y="482" class="bt" style="font-size:8.5px">Maxi 1</text><text x="488" y="492" class="bt" style="font-size:8.5px">24V</text><text x="488" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="488" y="512" class="bt" style="font-size:8.5px">201–218</text><text x="488" y="522" class="bt" style="font-size:8.5px">Max 100A</text><rect x="563" y="430" width="74" height="100" class="box"/><rect x="563" y="430" width="74" height="30" class="hd"/><text x="568" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="568" y="454" class="ht" style="font-size:9.5px">2</text><text x="568" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="568" y="482" class="bt" style="font-size:8.5px">Maxi 2</text><text x="568" y="492" class="bt" style="font-size:8.5px">24V</text><text x="568" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="568" y="512" class="bt" style="font-size:8.5px">301–318</text><text x="568" y="522" class="bt" style="font-size:8.5px">Max 100A</text><rect x="643" y="430" width="74" height="100" class="box"/><rect x="643" y="430" width="74" height="30" class="hd"/><text x="648" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="648" y="454" class="ht" style="font-size:9.5px">3</text><text x="648" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="648" y="482" class="bt" style="font-size:8.5px">Mini</text><text x="648" y="492" class="bt" style="font-size:8.5px">24V</text><text x="648" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="648" y="512" class="bt" style="font-size:8.5px">501–506</text><text x="648" y="522" class="bt" style="font-size:8.5px">Max 50A</text><rect x="783" y="430" width="74" height="100" class="box"/><rect x="783" y="430" width="74" height="30" class="hd"/><text x="788" y="449" class="ht" style="font-size:11px">Reserve</text><text x="788" y="472" class="bt" style="font-size:8.5px">scheiding</text><text x="788" y="482" class="bt" style="font-size:8.5px">verbruikers</text><rect x="863" y="430" width="74" height="100" class="box"/><rect x="863" y="430" width="74" height="30" class="hd"/><text x="868" y="449" class="ht" style="font-size:11px">DCDC 1</text><text x="868" y="472" class="bt" style="font-size:8.5px">Victron XS1400</text><text x="868" y="482" class="bt" style="font-size:8.5px">12→24V</text><text x="868" y="492" class="bt" style="font-size:8.5px">40A laden</text><rect x="943" y="430" width="74" height="100" class="box"/><rect x="943" y="430" width="74" height="30" class="hd"/><text x="948" y="449" class="ht" style="font-size:11px">DCDC 2</text><text x="948" y="472" class="bt" style="font-size:8.5px">Victron XS1400</text><text x="948" y="482" class="bt" style="font-size:8.5px">12→24V</text><text x="948" y="492" class="bt" style="font-size:8.5px">40A laden</text><rect x="1023" y="430" width="74" height="100" class="box"/><rect x="1023" y="430" width="74" height="30" class="hd"/><text x="1028" y="449" class="ht" style="font-size:11px">MPPT</text><text x="1028" y="472" class="bt" style="font-size:8.5px">Pekaway S40</text><text x="1028" y="482" class="bt" style="font-size:8.5px">Max 40A</text><text x="1028" y="492" class="bt" style="font-size:8.5px">±28A/800Wp</text><g font-family="Open Sans,Arial,sans-serif"><rect x="1330" y="1040" width="220" height="80" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1330 1060H1550M1330 1080H1550M1330 1100H1550" stroke="#1d1d1b" stroke-width="1"/><text x="1338" y="1054" font-size="9.5" font-weight="700" fill="#1d1d1b">Naam: DC installatie huishoudzijde</text><text x="1338" y="1074" font-size="9.5" fill="#1d1d1b">Voertuig: MAN TGE 4X4</text><text x="1338" y="1094" font-size="9.5" fill="#1d1d1b">Datum: 25-11-2026</text><text x="1338" y="1114" font-size="9.5" fill="#1d1d1b">Versie: rev A</text></g></svg>
+<rect x="403" y="430" width="74" height="100" class="box"/><rect x="403" y="430" width="74" height="30" class="hd"/><text x="408" y="449" class="ht" style="font-size:11px">Omvormer</text><text x="408" y="472" class="bt" style="font-size:8.5px">Victron</text><text x="408" y="482" class="bt" style="font-size:8.5px">MultiPlus-II</text><text x="408" y="492" class="bt" style="font-size:8.5px">24/3000/70-32</text><text x="408" y="502" class="bt" style="font-size:8.5px">230V GX</text><text x="408" y="512" class="bt" style="font-size:8.5px">Max ±135A</text><rect x="483" y="430" width="74" height="100" class="box"/><rect x="483" y="430" width="74" height="30" class="hd"/><text x="488" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="488" y="454" class="ht" style="font-size:9.5px">1</text><text x="488" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="488" y="482" class="bt" style="font-size:8.5px">Maxi 1</text><text x="488" y="492" class="bt" style="font-size:8.5px">24V</text><text x="488" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="488" y="512" class="bt" style="font-size:8.5px">201–218</text><text x="488" y="522" class="bt" style="font-size:8.5px">Max 100A</text><rect x="563" y="430" width="74" height="100" class="box"/><rect x="563" y="430" width="74" height="30" class="hd"/><text x="568" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="568" y="454" class="ht" style="font-size:9.5px">2</text><text x="568" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="568" y="482" class="bt" style="font-size:8.5px">Maxi 2</text><text x="568" y="492" class="bt" style="font-size:8.5px">24V</text><text x="568" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="568" y="512" class="bt" style="font-size:8.5px">301–318</text><text x="568" y="522" class="bt" style="font-size:8.5px">Max 100A</text><rect x="643" y="430" width="74" height="100" class="box"/><rect x="643" y="430" width="74" height="30" class="hd"/><text x="648" y="442" class="ht" style="font-size:9.5px">Zekeringkast</text><text x="648" y="454" class="ht" style="font-size:9.5px">3</text><text x="648" y="472" class="bt" style="font-size:8.5px">Pekaway Fusy</text><text x="648" y="482" class="bt" style="font-size:8.5px">Mini</text><text x="648" y="492" class="bt" style="font-size:8.5px">24V</text><text x="648" y="502" class="bt" style="font-size:8.5px">Zekering</text><text x="648" y="512" class="bt" style="font-size:8.5px">501–506</text><text x="648" y="522" class="bt" style="font-size:8.5px">Max 50A</text><rect x="783" y="430" width="74" height="100" class="box"/><rect x="783" y="430" width="74" height="30" class="hd"/><text x="788" y="449" class="ht" style="font-size:11px">Reserve</text><text x="788" y="472" class="bt" style="font-size:8.5px">scheiding</text><text x="788" y="482" class="bt" style="font-size:8.5px">verbruikers</text><rect x="863" y="430" width="74" height="100" class="box"/><rect x="863" y="430" width="74" height="30" class="hd"/><text x="868" y="449" class="ht" style="font-size:11px">DCDC 1</text><text x="868" y="472" class="bt" style="font-size:8.5px">Victron XS1400</text><text x="868" y="482" class="bt" style="font-size:8.5px">12→24V</text><text x="868" y="492" class="bt" style="font-size:8.5px">40A laden</text><rect x="943" y="430" width="74" height="100" class="box"/><rect x="943" y="430" width="74" height="30" class="hd"/><text x="948" y="449" class="ht" style="font-size:11px">DCDC 2</text><text x="948" y="472" class="bt" style="font-size:8.5px">Victron XS1400</text><text x="948" y="482" class="bt" style="font-size:8.5px">12→24V</text><text x="948" y="492" class="bt" style="font-size:8.5px">40A laden</text><rect x="1023" y="430" width="74" height="100" class="box"/><rect x="1023" y="430" width="74" height="30" class="hd"/><text x="1028" y="449" class="ht" style="font-size:11px">MPPT</text><text x="1028" y="472" class="bt" style="font-size:8.5px">Pekaway S40</text><text x="1028" y="482" class="bt" style="font-size:8.5px">Max 40A</text><text x="1028" y="492" class="bt" style="font-size:8.5px">±28A/800Wp</text><text x="446" y="382" class="cb" style="font-size:9px">100cm, 70mm²</text><text x="526" y="382" class="cb" style="font-size:9px">50cm, 25mm²</text><text x="606" y="382" class="cb" style="font-size:9px">50cm, 25mm²</text><text x="686" y="382" class="cb" style="font-size:9px">550cm, 16mm²</text><text x="906" y="382" class="cb" style="font-size:9px">50cm, 25mm²</text><text x="986" y="382" class="cb" style="font-size:9px">50cm, 25mm²</text><text x="1066" y="382" class="cb" style="font-size:9px">50cm, 25mm²</text><rect x="400" y="640" width="80" height="40" class="box"/><text x="440" y="657" text-anchor="middle" class="ht" style="font-size:9.5px;fill:#1d1d1b">Blad 3</text><text x="440" y="670" text-anchor="middle" class="bt" style="font-size:9px">230V AC</text><rect x="500" y="640" width="200" height="40" class="box"/><text x="600" y="657" text-anchor="middle" class="ht" style="font-size:9.5px;fill:#1d1d1b">Blad 2</text><text x="600" y="670" text-anchor="middle" class="bt" style="font-size:9px">24V groepen</text><rect x="1440" y="600" width="105" height="70" class="box"/><rect x="1440" y="600" width="105" height="30" class="hd"/><text x="1445" y="612" class="ht" style="font-size:10px">Startaccu 12V</text><text x="1445" y="624" class="ht" style="font-size:10px">PR J0B</text><text x="1445" y="643" class="bt" style="font-size:9px">AGM 92 Ah / 520 A</text><rect x="1240" y="640" width="90" height="80" class="box"/><rect x="1240" y="640" width="90" height="30" class="hd"/><text x="1245" y="652" class="ht" style="font-size:10px">Accessoireaccu</text><text x="1245" y="664" class="ht" style="font-size:10px">12V PR 8FE</text><text x="1245" y="683" class="bt" style="font-size:9px">AGM 92 Ah,</text><text x="1245" y="694" class="bt" style="font-size:9px">60A continue,</text><text x="1245" y="705" class="bt" style="font-size:9px">190A 15 minuten</text><rect x="1440" y="740" width="105" height="60" class="box"/><rect x="1440" y="740" width="105" height="22" class="hd"/><text x="1445" y="755" class="ht" style="font-size:11px">Alternator</text><text x="1445" y="775" class="bt" style="font-size:9px">230A PR 9GD,</text><text x="1445" y="786" class="bt" style="font-size:9px">NY4 Verhoogde</text><text x="1445" y="797" class="bt" style="font-size:9px">capaciteit</text><rect x="860" y="740" width="230" height="70" class="box"/><rect x="860" y="740" width="230" height="22" class="hd"/><text x="865" y="755" class="ht" style="font-size:11px">Huishoud Systeem Besturing</text><text x="865" y="775" class="bt" style="font-size:9px">Pekaway Core PRO,</text><text x="865" y="786" class="bt" style="font-size:9px">Leest apparatuur uit,</text><text x="865" y="797" class="bt" style="font-size:9px">stuurt DCDC, MPPT, Omvormer aan</text></g><g font-family="Open Sans,Arial,sans-serif"><rect x="1330" y="1040" width="220" height="80" fill="#fff" stroke="#1d1d1b" stroke-width="1.4"/><path d="M1330 1060H1550M1330 1080H1550M1330 1100H1550" stroke="#1d1d1b" stroke-width="1"/><text x="1338" y="1054" font-size="9.5" font-weight="700" fill="#1d1d1b">Naam: DC installatie huishoudzijde</text><text x="1338" y="1074" font-size="9.5" fill="#1d1d1b">Voertuig: MAN TGE 4X4</text><text x="1338" y="1094" font-size="9.5" fill="#1d1d1b">Datum: 25-11-2026</text><text x="1338" y="1114" font-size="9.5" fill="#1d1d1b">Versie: rev A</text></g></svg>
