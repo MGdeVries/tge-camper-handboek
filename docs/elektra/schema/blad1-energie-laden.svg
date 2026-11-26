@@ -140,7 +140,7 @@
 
 <path d="M440 530V740" class="ac" marker-end="url(#arp)"/>
 <path d="M520 530V740" class="p" marker-end="url(#ar)"/>
-<path d="M630 530V545H645V740" class="p" marker-end="url(#ar)"/><path d="M590 530V575" class="p" marker-end="url(#ar)"/><rect x="585.5" y="538" width="9" height="12" fill="#fff"/><circle cx="590" cy="544" r="3" fill="#1d1d1b"/><path d="M600 675V740" class="p" marker-end="url(#ar)"/><rect x="595.5" y="701" width="9" height="12" fill="#fff"/><circle cx="600" cy="707" r="3" fill="#1d1d1b"/>
+<path d="M630 530V545H645V740" class="p" marker-end="url(#ar)"/><path d="M590 530V575" class="p" marker-end="url(#ar)"/><rect x="585.5" y="536" width="9" height="12" fill="#fff"/><circle cx="590" cy="542" r="3" fill="#1d1d1b"/><path d="M600 675V740" class="p" marker-end="url(#ar)"/><rect x="595.5" y="701" width="9" height="12" fill="#fff"/><circle cx="600" cy="707" r="3" fill="#1d1d1b"/>
 <path d="M680 530V740" class="p" marker-end="url(#ar)"/>
 
 <path d="M1450 600V570H1340" class="p" style="stroke-width:5.4"/>
