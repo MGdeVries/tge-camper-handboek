@@ -87,10 +87,10 @@
 
 <text x="702" y="300" class="lb" style="font-size:9.5px">A · 4</text>
 <path d="M680 330V430" class="p"/>
-<path d="M820 230V330" class="p"/>
+<path d="M820 230V330" class="p" style="stroke:#9aa0a6;stroke-dasharray:6 4"/>
 <text x="829" y="282" class="cb" style="font-size:9px">vrij</text>
 <text x="829" y="300" class="lb" style="font-size:9.5px">B · 5</text>
-<path d="M820 330V430" class="p"/>
+<path d="M820 330V430" class="p" style="stroke:#9aa0a6;stroke-dasharray:6 4"/>
 <path d="M900 230V330" class="p"/>
 <rect x="894" y="255" width="12" height="14" class="fz"/>
 <text x="922" y="266" class="lb" style="font-size:9.5px">40A</text>
