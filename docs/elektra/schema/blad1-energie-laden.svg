@@ -33,23 +33,23 @@
 
 <path d="M325 187V-26H1525V600" stroke="#7a4fb0" stroke-width="1.8" fill="none"/>
 <text x="600" y="-10" class="cb" style="fill:#7a4fb0">2,5 mm² spanningsmeting shunt → startaccu pluspool</text>
-<rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
+<g transform="translate(0,-70)"><rect x="30" y="640" width="270" height="240" class="box"/><rect x="30" y="640" width="270" height="22" class="hd"/>
 <text x="36" y="655" class="ht">WOONACCU 24V · 8s LiFePO4</text>
 <text x="36" y="676" class="bt" style="font-size:10.5px">8 × 3,2V 184Ah · ±4,7 kWh</text>
-<rect x="38" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="69" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="100" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="131" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="162" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="193" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="224" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
-<rect x="255" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="44.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="75.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="106.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="137.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="168.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="199.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="230.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
+<rect x="261.5" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
 <text x="36" y="750" class="bt" style="font-size:10.5px">piekbelasting ±150A op 24V</text>
 <text x="36" y="765" class="cb">(omvormer voedt inductiekookplaat)</text>
 <rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text>
-<text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
-<path d="M260 640V195H300" class="n" style="stroke-width:7.2"/>
-<path d="M280 640V230H300" class="p" style="stroke-width:7.2"/><text transform="translate(296,540) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">150cm, 70mm²</text>
+<text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text></g>
+<path d="M260 570V195H300" class="n" style="stroke-width:7.2"/>
+<path d="M280 570V230H300" class="p" style="stroke-width:7.2"/><text transform="translate(296,540) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">150cm, 70mm²</text>
 <path d="M400 195H430" class="n" style="stroke-width:7.2"/><rect x="300" y="186" width="100" height="18" class="box" style="fill:#f4f7fb"/><text x="304" y="199" class="lb" style="font-size:8.5px">Pekaway Shunt 500A</text>
 <rect x="300" y="222" width="28" height="16" class="fz"/><text x="286" y="249" class="lb" style="font-size:9.5px">F04</text><text x="286" y="260" class="lb" style="font-size:9.5px">250A</text>
 <path d="M328 230H346" class="p" style="stroke-width:7.2"/>
