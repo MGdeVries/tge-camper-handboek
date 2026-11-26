@@ -15,7 +15,7 @@
 <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1d1d1b"/></marker>
 <marker id="arp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#7a4fb0"/></marker>
 <g id="pvp"><rect width="70" height="50" class="pv"/><path d="M0 17H70M0 33H70M14 0V50M28 0V50M42 0V50M56 0V50" stroke="#5f7fb8" stroke-width=".8"/></g>
-</defs><g transform="translate(0,40)">
+</defs><g transform="translate(0,93)">
 <use href="#pvp" x="1040" y="60"/>
 <use href="#pvp" x="1120" y="60"/>
 <use href="#pvp" x="1200" y="60"/>
@@ -172,7 +172,7 @@
 
 
 <text x="975" y="826" class="cb" text-anchor="middle" style="font-size:9.5px">RJ10-uitlezing Lynx: nog te bevestigen</text>
-<g transform="translate(30,1040)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
+<g transform="translate(30,987)"><path d="M0 8H36" class="p"/><text x="44" y="12" class="bt">+ 24V / 12V</text>
 <path d="M140 8H176" class="n"/><text x="184" y="12" class="bt">− min</text>
 <path d="M260 8H296" class="ac"/><text x="304" y="12" class="bt">230V AC</text>
 <path d="M360 8H396" stroke="#7a4fb0" stroke-width="1.8"/><text x="404" y="12" class="bt">meting 2,5 mm²</text>
