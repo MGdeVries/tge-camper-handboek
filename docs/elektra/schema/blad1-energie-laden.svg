@@ -104,7 +104,6 @@
 <text x="1002" y="300" class="lb" style="font-size:9.5px">B · 7</text>
 <path d="M980 330V430" class="p" style="stroke-width:3.6"/>
 <path d="M1060 230V330" class="p" style="stroke-width:3.6"/><rect x="1054" y="255" width="12" height="14" class="fz"/><text x="1082" y="266" class="lb" style="font-size:9.5px">40A</text>
-<text x="1069" y="282" class="cb" style="font-size:9px">nader te bepalen</text>
 <text x="1082" y="300" class="lb" style="font-size:9.5px">B · 8</text>
 <path d="M1060 330V430" class="p" style="stroke-width:3.6"/>
 
