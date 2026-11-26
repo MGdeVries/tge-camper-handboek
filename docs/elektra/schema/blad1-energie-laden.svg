@@ -46,7 +46,7 @@
 <rect x="255" y="686" width="24" height="46" fill="#e9eef5" stroke="#1d1d1b"/>
 <text x="36" y="750" class="bt" style="font-size:10.5px">piekbelasting ±150A op 24V</text>
 <text x="36" y="765" class="cb">(omvormer voedt inductiekookplaat)</text>
-<rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text><text x="46" y="812" class="bt" style="font-size:10px">BT-only · bedraad gewenst</text>
+<rect x="40" y="778" width="250" height="44" fill="#f4f7fb" stroke="#1d1d1b"/><text x="46" y="796" class="lb">JK-B2A8S30P BMS</text>
 <text x="36" y="842" class="cb">F1 Class-T 250A · 184A continu cellen</text>
 <path d="M260 640V195H300" class="n" style="stroke-width:7.2"/>
 <path d="M280 640V230H300" class="p" style="stroke-width:7.2"/><text transform="translate(296,540) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">150cm, 70mm²</text>
