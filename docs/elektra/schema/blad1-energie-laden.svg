@@ -167,7 +167,7 @@
 
 
 
-<path d="M1500 824V688" class="p" style="stroke-width:5.4"/><rect x="1494" y="688" width="12" height="14" class="fz"/><path d="M1500 702V670" class="p" style="stroke-width:5.4"/><text x="1512" y="699" class="lb" style="font-size:9.5px">400A</text><text transform="translate(1478,735) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">50cm, 50mm²</text><text transform="translate(1512,765) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">150cm, 50mm²</text>
+<path d="M1500 824V688" class="p" style="stroke-width:5.4"/><rect x="1494" y="688" width="12" height="14" class="fz"/><path d="M1500 702V670" class="p" style="stroke-width:5.4"/><text x="1512" y="699" class="lb" style="font-size:9.5px">400A</text><text transform="translate(1478,725) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">50cm, 50mm²</text><text transform="translate(1512,765) rotate(-90)" text-anchor="middle" class="cb" style="font-size:9px">150cm, 50mm²</text>
 
 
 
