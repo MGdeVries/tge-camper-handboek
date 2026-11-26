@@ -144,7 +144,7 @@
 <path d="M680 530V740" class="p" marker-end="url(#ar)"/>
 
 <path d="M1450 600V570H1340" class="p" style="stroke-width:5.4"/>
-<rect x="1383" y="562" width="14" height="16" class="fz"/><text x="1372" y="556" class="lb" style="font-size:9.5px">F2 100A</text><text x="1352" y="590" class="cb" style="font-size:9px">150cm, 50mm²</text>
+<rect x="1383" y="562" width="14" height="16" class="fz"/><text x="1372" y="556" class="lb" style="font-size:9.5px">F2 150A</text><text x="1352" y="590" class="cb" style="font-size:9px">150cm, 50mm²</text>
 <rect x="1250" y="540" width="90" height="60" class="box"/>
 <circle cx="1295" cy="570" r="13" fill="#fff" stroke="#1d1d1b" stroke-width="1.2"/>
 <circle cx="1295" cy="570" r="2.4" fill="#1d1d1b"/><path d="M1295 570L1283 562" stroke="#1d1d1b" stroke-width="2"/>
