@@ -141,7 +141,7 @@
 
 <path d="M440 530V740" class="ac" marker-end="url(#arp)"/>
 <path d="M520 530V740" class="p" marker-end="url(#ar)"/>
-<path d="M630 530V545H645V740" class="p" marker-end="url(#ar)"/>
+<path d="M630 530V545H645V740" class="p" marker-end="url(#ar)"/><path d="M590 530V560" class="p" marker-end="url(#ar)"/><path d="M600 660V740" class="p" marker-end="url(#ar)"/>
 <path d="M680 530V740" class="p" marker-end="url(#ar)"/>
 
 <path d="M1450 600V570H1340" class="p"/>
