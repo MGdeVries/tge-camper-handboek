@@ -162,7 +162,7 @@
 <path d="M1330 690H1346" class="p" style="stroke-width:5.4"/><rect x="1346" y="682" width="12" height="16" class="fz"/><text x="1334" y="676" class="lb" style="font-size:9.5px">400A</text><path d="M1358 690H1368" class="p" style="stroke-width:5.4"/><rect x="1368" y="682" width="12" height="16" class="fz"/><path d="M1371 697L1377 689" stroke="#1d1d1b" stroke-width="1.2"/>
 <text x="1346" y="714" class="cb" style="font-size:8.5px">scheidingsrelais</text>
 <path d="M1380 690H1452V670" class="p" style="stroke-width:5.4"/>
-<path d="M1466 670V706" class="n"/><path d="M1454 706H1478M1458 712H1474M1462 718H1470" stroke="#1d1d1b" stroke-width="2"/><path d="M1466 774V718" class="n" style="stroke-width:5.4"/><path d="M1290 720V735H1466" class="n" style="stroke-width:5.4"/><text x="1330" y="749" class="cb" style="font-size:9px">150cm, 50mm²</text><text x="1436" y="782" text-anchor="end" class="cb" style="font-size:9px">50cm, 50mm²</text>
+<path d="M1466 670V706" class="n"/><path d="M1454 706H1478M1458 712H1474M1462 718H1470" stroke="#1d1d1b" stroke-width="2"/><path d="M1466 774V718" class="n" style="stroke-width:5.4"/><path d="M1290 720V735H1466" class="n" style="stroke-width:5.4"/><text x="1330" y="749" class="cb" style="font-size:9px">100cm, 50mm²</text><text x="1436" y="782" text-anchor="end" class="cb" style="font-size:9px">50cm, 50mm²</text>
 
 
 
