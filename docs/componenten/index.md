@@ -4,7 +4,7 @@ Overzicht van alle onderdelen in de bus, per systeem, met specificaties en de li
 
 Klik een niveau open om naar het detail te gaan.
 
-**Legenda status:** ✅ ingebouwd · 🛒 besteld · 📦 nog te bestellen · ❓ onbekend
+**Legenda status:** ✅ ingebouwd · 🛒 besteld · 📥 op voorraad · 📦 nog te bestellen · ❓ onbekend
 
 ## 1. Voertuig
 
@@ -39,7 +39,7 @@ Klik een niveau open om naar het detail te gaan.
     |---|---|---|---|
     | EL-211 | F1 | Class-T 250 A, 70 mm² van accu naar Lynx | 📦 |
     | EL-212 | Q1 hoofdschakelaar | BEP 770-DP-EZ: 400 A continu / 600 A 5 min / 1500 A 10 s, 12–48 V, IP67 | 📦 |
-    | EL-213 | Lynx Distributor M10 (2×) | 1000 A, 4× MEGA-zekering per Lynx. Productlink nog toe te voegen. | 🛒 |
+    | EL-213 | Lynx Distributor M10 (2×) | 1000 A, 4× MEGA-zekering per Lynx. Lynx 1: besteld. Lynx 2: op voorraad. Productlink nog toe te voegen. | 🛒 / 📥 |
     | EL-214 | Blue Sea 6007 m-Series Mini Selector | 32 V, 300 A continu. Standen UIT / #1 / #2 / beide. Onderin B-stijl links achter bestuurdersstoel. | ❓ |
 
 ??? note "2.3 Laden"
@@ -62,12 +62,12 @@ Klik een niveau open om naar het detail te gaan.
     | EL-237 | Inprojal 4-voudige taster 30420 (3×) | 12 V/24 V, inclusief frame | [pekaway.de](https://pekaway.de/products/inprojal-4-fach-taster-30420-12-24v-inklusive-rahmen) |
     | EL-238 | DS18B20 temperatuursensor (4×) | Digitale temperatuursensor | [pekaway.de](https://pekaway.de/products/van-pi-temperatursensor-ds18b20) |
     | EL-239 | RuuviTag Pro 3-in-1 (4×) | Bluetooth-sensor. Docs: maximaal 3 per systeem. | [pekaway.de](https://pekaway.de/products/ruuvitag-pro-3in1) |
-    | EL-240 | Victron MultiPlus-II | 24/3000/70, GX-versie. Nog te bestellen. | 📦 |
+    | EL-240 | Victron MultiPlus-II | 24/3000/70, GX-versie. Op voorraad. | 📥 |
 
 ??? note "2.5 Omvormer 230V"
     | ID | Onderdeel | Specificatie | Status |
     |---|---|---|---|
-    | EL-251 | Victron MultiPlus-II 3000 VA | 24 V, GX-versie. Zekering en kabel per exact model nog controleren. | 📦 |
+    | EL-251 | Victron MultiPlus-II 3000 VA | 24 V, GX-versie. Op voorraad. Zekering en kabel per exact model nog controleren. | 📥 |
     | EL-252 | AC-groepen | 101 inductie 2000 W, 102 waterkoker/airfryer, 103 buitenkeuken, 104 e-bikes. Alle 10 A, 3× 2,5 mm². | ✅ |
 
 ??? note "2.6 Zekeringen en relais"
