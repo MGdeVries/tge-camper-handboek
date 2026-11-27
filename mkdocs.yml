@@ -101,6 +101,8 @@ nav:
   - Interieur:
       - interieur/index.md
       - Vloer: interieur/vloer.md
+  - Componenten:
+      - componenten/index.md
   - Onderdelen:
       - onderdelen/index.md
       - Pekaway: onderdelen/pekaway.md
