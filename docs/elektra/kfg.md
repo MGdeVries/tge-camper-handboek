@@ -61,3 +61,25 @@ Onder het dashboard achter het dashboardkastje (passagierszijde), bereikbaar van
 - [ ] SSM-CAN-berichten voor de CORE PRO: snelheid, brandstofniveau, buitentemperatuur, accuspanning, motor aan
 - [ ] Ingang "intern laadapparaat actief" aansluiten als de Ablemail-druppellader vast wordt ingebouwd
 - [ ] Na inbouw van de lithiumaccu: externe-ladingherkenning uit + code **O1A**
+
+## Gedachtengang: KFG bereikbaar houden na de inbouw
+
+**Doel:** het KFG moet na de volledige interieurbouw nog te bereiken zijn, zodat de CORE PRO signalen kan lezen en sturen zonder de voertuig-CAN aan te tikken.
+
+**Uitgangspunt**
+- Het KFG is de enige toegestane route voor voertuigdata (SSM-CAN, CiA 447, telematica), zie hierboven.
+- Drie stekkers met pins en kabelbomen naar achteren, zodat de bekabeling later bereikbaar blijft.
+
+**Open vragen voor de dealer**
+- Welke stekkers en hoeveel pins krijgen we, en waar eindigen de kabelbomen precies?
+- Kan de kabelboom naar een zichtbare, bereikbare plaats (bijvoorbeeld achter de wandbekleding of in een inspectiepaneel), zonder dat de interieurbouw hem blokkeert?
+- Welke signalen worden via SSM-CAN aangeboden, en op welke bitrate?
+- Komt de telematica-connector (12 polen) ook naar achteren, en mag die voor de CORE PRO gebruikt worden?
+
+**Open vragen voor Pekaway**
+- Kan de CORE PRO CiA 447 of J1939 decoderen, of is er een interface nodig?
+- Welke ingangen en uitgangen zijn bruikbaar als het KFG op de CORE PRO wordt aangesloten?
+
+**Risico's**
+- Het interieur wordt dicht gemaakt. Een storing of latere wijziging is dan lastig te bereiken.
+- Elke aanpassing aan de KFG-bekabeling moet door de dealer gebeuren. Garantie en goedkeuring blijven een aandachtspunt.
